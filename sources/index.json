@@ -1,0 +1,1690 @@
+[
+ {
+  "sha256": "a00a1552cc28866a4a199e31301b99542c1fe2b769ce60822d10d94281046807",
+  "filename": "8htVct74jO8J.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\method-design-v5\\8htVct74jO8J.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G25.pdf"
+  ]
+ },
+ {
+  "sha256": "e2c917c7c381c55bec0fe0d6814de7033f0acef1e8910c220775cea02decfa5a",
+  "filename": "A neural network based framework for variable impedance skills learning from demonstrations.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\A neural network based framework for variable impedance skills learning from demonstrations.pdf"
+  ],
+  "citation_record": {
+   "title": "A neural network based framework for variable impedance skills learning from demonstrations",
+   "authors": "Yu Zhang, Long Cheng, Ran Cao, Houcheng Li, Chenguang Yang",
+   "year": 2023,
+   "venue": "Robotics and Autonomous Systems",
+   "citations_at_retrieval": 39
+  }
+ },
+ {
+  "sha256": "0e582550460e586724d329f0286edabee84c309430c446b73b92468682b84838",
+  "filename": "A novel model predictive dynamic adaptive impedance control for robotic force tracking on complex surfaces.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-topvenue-calibration\\A novel model predictive dynamic adaptive impedance control for robotic force tracking on complex surfaces.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G01.pdf"
+  ]
+ },
+ {
+  "sha256": "7c6c6c02b324402d5e20fc322c46253cf8b851f8c48ab23f02bad90c33c3dbd0",
+  "filename": "A Passive Variable Impedance Control Strategy with Viscoelastic Parameters Estimation of Soft Tissues for Safe Ultrasonography.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\A Passive Variable Impedance Control Strategy with Viscoelastic Parameters Estimation of Soft Tissues for Safe Ultrasonography.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\beber.pdf"
+  ]
+ },
+ {
+  "sha256": "496cefe4402d3d05acd20b9a8038b20f7c72d4b674059bde9cf9b73b25bbda54",
+  "filename": "A Tutorial Survey and Comparison of Impedance Control on Robotic Manipulation.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\A Tutorial Survey and Comparison of Impedance Control on Robotic Manipulation.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E01.pdf"
+  ],
+  "citation_record": {
+   "title": "A Tutorial Survey and Comparison of Impedance Control on Robotic Manipulation",
+   "authors": "Peng Song, Yueqing Yu, Xuping Zhang",
+   "year": 2019,
+   "venue": "Robotica",
+   "citations_at_retrieval": 218
+  }
+ },
+ {
+  "sha256": "657f295d978b8705360aa7e224483606a19308a29f68afffa8c6b0573c105029",
+  "filename": "A_DMPs-Based_Framework_for_Robot_Learning_and_Generalization_of_Humanlike_Variable_Impedance_Skills.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\A_DMPs-Based_Framework_for_Robot_Learning_and_Generalization_of_Humanlike_Variable_Impedance_Skills.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\reverse_analysis_samples\\R01.pdf"
+  ],
+  "citation_record": {
+   "title": "A DMPs-Based Framework for Robot Learning and Generalization of Humanlike Variable Impedance Skills",
+   "authors": "Chenguang Yang, Chao Zeng, Cheng Fang, Wei He, Zhijun Li",
+   "year": 2018,
+   "venue": "IEEE/ASME Transactions on Mechatronics",
+   "citations_at_retrieval": 229
+  }
+ },
+ {
+  "sha256": "d15eba5aeebc05c3395d8c4badb63200f631c08fd010ce083e5c4f0c66fd0ef5",
+  "filename": "A_DMPs-Based_Framework_for_Robot_Learning_and_Generalization_of_Humanlike_Variable_Impedance_Skills.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\A_DMPs-Based_Framework_for_Robot_Learning_and_Generalization_of_Humanlike_Variable_Impedance_Skills.pdf"
+  ],
+  "citation_record": {
+   "title": "A DMPs-Based Framework for Robot Learning and Generalization of Humanlike Variable Impedance Skills",
+   "authors": "Chenguang Yang, Chao Zeng, Cheng Fang, Wei He, Zhijun Li",
+   "year": 2018,
+   "venue": "IEEE/ASME Transactions on Mechatronics",
+   "citations_at_retrieval": 229
+  }
+ },
+ {
+  "sha256": "a5d4495f90a5c52987848d307350bd3fe589b80c1444488b6e7a1f0df74814d7",
+  "filename": "A_Novel_Robust_Adaptive_Impedance_Control_Scheme_for_Contact_Force_Tracking_With_Unknown_Environment.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\A_Novel_Robust_Adaptive_Impedance_Control_Scheme_for_Contact_Force_Tracking_With_Unknown_Environment.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E04.pdf"
+  ],
+  "citation_record": {
+   "title": "A Novel Robust Adaptive Impedance Control Scheme for Contact Force Tracking With Unknown Environment",
+   "authors": "Tangzhong Song, Lijin Fang, Yian Qian",
+   "year": 2025,
+   "venue": "IEEE Robotics and Automation Letters",
+   "citations_at_retrieval": 12
+  }
+ },
+ {
+  "sha256": "46203e975191e8aa01e6fe8e820867e6ac96f19e7053f2ea97450df97d32fad9",
+  "filename": "A_Solution_to_the_Accuracy_Robustness_Dilemma_in_Impedance_Control.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch\\A_Solution_to_the_Accuracy_Robustness_Dilemma_in_Impedance_Control.pdf"
+  ]
+ },
+ {
+  "sha256": "a6f9487adb16c099cb5e8056b3ef4e2177c4e601d2cb5ae15f189531f1c65059",
+  "filename": "A_Variable_Impedance_Scheme_Based_on_Power-Shaping_Signals_and_Partial_Knowledge_of_Link-Side_Dynamics_for_Flexible-Joint_Robot_Interaction_and_Tracking_Control.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\A_Variable_Impedance_Scheme_Based_on_Power-Shaping_Signals_and_Partial_Knowledge_of_Link-Side_Dynamics_for_Flexible-Joint_Robot_Interaction_and_Tracking_Control.pdf"
+  ],
+  "citation_record": {
+   "title": "A Variable Impedance Scheme Based on Power-Shaping Signals and Partial Knowledge of Link-Side Dynamics for Flexible-Joint Robot Interaction and Tracking Control",
+   "authors": "Emmanouil Spyrakos-Papastavridis, Jian S. Dai",
+   "year": 2024,
+   "venue": "IEEE/ASME Transactions on Mechatronics",
+   "citations_at_retrieval": 15
+  }
+ },
+ {
+  "sha256": "3d442e9c7ecf043411776e4330d60a31fd7f332a7879e29197f30a7a44b78b9f",
+  "filename": "Action Conditioned Tactile Prediction  case study on slip prediction.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Action Conditioned Tactile Prediction  case study on slip prediction.pdf"
+  ]
+ },
+ {
+  "sha256": "216fc1f50f72551f9a07df4365dfe7d3485a37ec5c568f8301a808861e1b79d0",
+  "filename": "Adaptive variable impedance control for dynamic contact force tracking in uncertain environment.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-cycle-2\\Adaptive variable impedance control for dynamic contact force tracking in uncertain environment.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\F02.pdf"
+  ]
+ },
+ {
+  "sha256": "72617e98e3474c54a32f6f71f8c4bc471af8464c85fc6a5895d49ceecb6fefda",
+  "filename": "Adaptive_Energy-Bounding_Approach_for_Robustly_Stable_Interaction_Control_of_Impedance-Controlled_Industrial_Robot_With_Uncertain_Environments.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Adaptive_Energy-Bounding_Approach_for_Robustly_Stable_Interaction_Control_of_Impedance-Controlled_Industrial_Robot_With_Uncertain_Environments.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E06.pdf"
+  ],
+  "citation_record": {
+   "title": "Adaptive Energy-Bounding Approach for Robustly Stable Interaction Control of Impedance-Controlled Industrial Robot With Uncertain Environments",
+   "authors": "Sehun Kim, Jong-Phil Kim, Jeha Ryu",
+   "year": 2014,
+   "venue": "IEEE/ASME Transactions on Mechatronics",
+   "citations_at_retrieval": 44
+  }
+ },
+ {
+  "sha256": "4198c472453ba4b5513aabc6d5649ee02ba070f9c8e0b1a6c9a709a9f54e91dd",
+  "filename": "Adaptive_Fuzzy_Neural_Network_Command_Filtered_Impedance_Control_of_Constrained_Robotic_Manipulators_With_Disturbance_Observer.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Adaptive_Fuzzy_Neural_Network_Command_Filtered_Impedance_Control_of_Constrained_Robotic_Manipulators_With_Disturbance_Observer.pdf"
+  ],
+  "citation_record": {
+   "title": "Adaptive Fuzzy Neural Network Command Filtered Impedance Control of Constrained Robotic Manipulators With Disturbance Observer",
+   "authors": "Gang Li, Jinpeng Yu, Xinkai Chen",
+   "year": 2023,
+   "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+   "citations_at_retrieval": 85
+  }
+ },
+ {
+  "sha256": "0890411f669f8009a6673d4673fb33f08eb0f4792d5f18fec9c3afada67dbe48",
+  "filename": "Adaptive_Fuzzy_Neural_Network_Control_for_a_Constrained_Robot_Using_Impedance_Learning.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Adaptive_Fuzzy_Neural_Network_Control_for_a_Constrained_Robot_Using_Impedance_Learning.pdf"
+  ],
+  "citation_record": {
+   "title": "Adaptive Fuzzy Neural Network Control for a Constrained Robot Using Impedance Learning",
+   "authors": "Wei He, Yiting Dong",
+   "year": 2018,
+   "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+   "citations_at_retrieval": 721
+  }
+ },
+ {
+  "sha256": "5ff1c7017aa5a375d159639eedae9ff9dd19ef21d0fc1c9a624c0e509dc43726",
+  "filename": "Adaptive_Impedance_Control_of_HumanRobot_Cooperation_Using_Reinforcement_Learning.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Adaptive_Impedance_Control_of_HumanRobot_Cooperation_Using_Reinforcement_Learning.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E09.pdf"
+  ],
+  "citation_record": {
+   "title": "Adaptive Impedance Control of Human–Robot Cooperation Using Reinforcement Learning",
+   "authors": "Zhijun Li, Junqiang Liu, Zhicong Huang, Yan Peng, Huayan Pu, Liang Ding",
+   "year": 2017,
+   "venue": "IEEE Transactions on Industrial Electronics",
+   "citations_at_retrieval": 203
+  }
+ },
+ {
+  "sha256": "a80ca772b0147926579fc4368c7b443c1f003dc7fa9847892cc00bc116f0a437",
+  "filename": "Adaptive_Neural_Impedance_Control_of_a_Robotic_Manipulator_With_Input_Saturation.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Adaptive_Neural_Impedance_Control_of_a_Robotic_Manipulator_With_Input_Saturation.pdf"
+  ],
+  "citation_record": {
+   "title": "Adaptive Neural Impedance Control of a Robotic Manipulator With Input Saturation",
+   "authors": "Wei He, Yiting Dong, Changyin Sun",
+   "year": 2016,
+   "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+   "citations_at_retrieval": 882
+  }
+ },
+ {
+  "sha256": "f5cffa8442a945002bb52bfd4c251232f3545f1c929c3ad45c39034d208ea7ba",
+  "filename": "Adaptive_Neural_Network_Control_of_AUVs_With_Control_Input_Nonlinearities_Using_Reinforcement_Learning.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\Adaptive_Neural_Network_Control_of_AUVs_With_Control_Input_Nonlinearities_Using_Reinforcement_Learning.pdf"
+  ]
+ },
+ {
+  "sha256": "4e12d2dc38d92d07c60829819bf4fc11d967b35b2fb3b69312b1cfe74175c8bc",
+  "filename": "Adaptive_Parameter_Estimation_and_Control_Design_for_Robot_Manipulators_With_Finite-Time_Convergence.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\Adaptive_Parameter_Estimation_and_Control_Design_for_Robot_Manipulators_With_Finite-Time_Convergence.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\reverse_analysis_samples\\R03.pdf"
+  ]
+ },
+ {
+  "sha256": "f9942cc7d22ee1fae39e589531f984f398d9f6cda1cc45f61955a617cd69ee71",
+  "filename": "An_HQP-Based_Obstacle_Avoidance_Control_Scheme_for_Redundant_Mobile_Manipulators_Under_Multiple_Constraints.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\An_HQP-Based_Obstacle_Avoidance_Control_Scheme_for_Redundant_Mobile_Manipulators_Under_Multiple_Constraints.pdf"
+  ]
+ },
+ {
+  "sha256": "ba618cf2f83ab44a7a13acc4b6c4a731d3b0804e77fdf79795dcd66f29abbcbb",
+  "filename": "An_Optimal_Variable_Impedance_Control_With_Consideration_of_the_Stability.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\An_Optimal_Variable_Impedance_Control_With_Consideration_of_the_Stability.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E11.pdf"
+  ],
+  "citation_record": {
+   "title": "An Optimal Variable Impedance Control With Consideration of the Stability",
+   "authors": "Zhehao Jin, Andong Liu, Wen-an Zhang, Li Yu",
+   "year": 2022,
+   "venue": "IEEE Robotics and Automation Letters",
+   "citations_at_retrieval": 28
+  }
+ },
+ {
+  "sha256": "0ec5c49ddbb602baff99b2155a4179693b93741de660d5a65c4623f3dd7f7806",
+  "filename": "Applied Bionics and Biomechanics - 2018 - Al-Shuka - Active Impedance Control of Bioinspired Motion Robotic Manipulators .pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Applied Bionics and Biomechanics - 2018 - Al-Shuka - Active Impedance Control of Bioinspired Motion Robotic Manipulators .pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E12.pdf"
+  ]
+ },
+ {
+  "sha256": "c79a098ddf2ddea9c534b552d0f82557378803b97199d80cce88418c5c0327fb",
+  "filename": "AQhmZpqu8cQJ.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\public-pdf\\AQhmZpqu8cQJ.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G24.pdf"
+  ]
+ },
+ {
+  "sha256": "580f84729b9798dea73df545842e26a11c016e8951e4c80bfaa2d7a90b03f9d1",
+  "filename": "Asymmetric_Bimanual_Control_of_Dual-Arm_Exoskeletons_for_Human-Cooperative_Manipulations.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\Asymmetric_Bimanual_Control_of_Dual-Arm_Exoskeletons_for_Human-Cooperative_Manipulations.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\reverse_analysis_samples\\R05.pdf"
+  ]
+ },
+ {
+  "sha256": "700535cfe8b1d08f207a44d8d1564e0e818c30dcf02aa4d1125e5653227274ea",
+  "filename": "AuSoScan_含笔记.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\AuSoScan_含笔记.pdf",
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-supplied-softscan-2026-08-22\\P02_AuSoScan_含笔记.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\F08.pdf"
+  ]
+ },
+ {
+  "sha256": "2824b665fdfe957c6dbc92d3aaa4cf99761fed68be77638ba03752ecf43ac5f2",
+  "filename": "Bioinspired trajectory modulation for effective slip control in robot manipulation.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Bioinspired trajectory modulation for effective slip control in robot manipulation.pdf"
+  ]
+ },
+ {
+  "sha256": "b7d5f4203d99337d99c83af382e05bdbf63da71f7a51495f1ef1b141eac0b213",
+  "filename": "bRrwxfzJq_QJ.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\method-design-v5\\bRrwxfzJq_QJ.pdf"
+  ]
+ },
+ {
+  "sha256": "be45a4a09c0a281fe1700d44cfeb86407a23a481cb73afb7b59c8e3e486ffcd5",
+  "filename": "Choosing_Stiffness_and_Damping_for_Optimal_Impedance_Planning.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Choosing_Stiffness_and_Damping_for_Optimal_Impedance_Planning.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\pollayil.pdf"
+  ]
+ },
+ {
+  "sha256": "94f70eb8943a3100963207e2fb5d2343352bf4fc9ce951672716bdea80261c9e",
+  "filename": "Composite-Learning-Based_Adaptive_Neural_Control_for_Dual-Arm_Robots_With_Relative_Motion.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\Composite-Learning-Based_Adaptive_Neural_Control_for_Dual-Arm_Robots_With_Relative_Motion.pdf"
+  ]
+ },
+ {
+  "sha256": "69010924692ad1e5d7972e54b4fc4dd240d4096ae77b5daed3a1cd87c502e5cb",
+  "filename": "Composite_Learning_Variable_Impedance_Robot_Control_With_Stability_and_Passivity_Guarantees.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch\\Composite_Learning_Variable_Impedance_Robot_Control_With_Stability_and_Passivity_Guarantees.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G05.pdf"
+  ]
+ },
+ {
+  "sha256": "ead90a672eba182cacf69453aee50e2024dd233bff0c2bf909f5b3cac31e6685",
+  "filename": "Constrained Differential Dynamic Programming A primal-dual augmented Lagrangian approach.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Constrained Differential Dynamic Programming A primal-dual augmented Lagrangian approach.pdf"
+  ]
+ },
+ {
+  "sha256": "af52294fca6b7807391f292389967d78163aa143d9a92955925a7a0549024967",
+  "filename": "Constrained_Variable_Impedance_Control_using_Quadratic_Programming.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Constrained_Variable_Impedance_Control_using_Quadratic_Programming.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E14.pdf"
+  ],
+  "citation_record": {
+   "title": "Constrained Variable Impedance Control using Quadratic Programming",
+   "authors": "Zhehao Jin, Dongdong Qin, Andong Liu, Wen-An Zhang, Li Yu",
+   "year": 2022,
+   "venue": "2022 International Conference on Robotics and Automation (ICRA",
+   "citations_at_retrieval": 11
+  }
+ },
+ {
+  "sha256": "b6a8e6bd0b8109fc8840c8b275fae76b6436784d621d375bddf7f8e115c4b65a",
+  "filename": "Contact-Robust Trajectory Planning via Parametric Sensitivity Analysis for Hybrid Robotic Systems.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-topvenue-calibration\\Contact-Robust Trajectory Planning via Parametric Sensitivity Analysis for Hybrid Robotic Systems.pdf"
+  ]
+ },
+ {
+  "sha256": "e0bd1a6ceaebd4d535e0fe17e5dca0b4d93655a9c8e5dad54668cdbe0535f36a",
+  "filename": "Contact_transition_stability_in_the_impedance_control.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch\\Contact_transition_stability_in_the_impedance_control.pdf"
+  ]
+ },
+ {
+  "sha256": "72d6e3d0dc8dcad78d1ef7db68b795c5f77e5e019cb176185819de0da562246e",
+  "filename": "Deflection-Domain_Passivity_Control_of_Variable_Stiffnesses_Based_on_Potential_Energy_Reference.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Deflection-Domain_Passivity_Control_of_Variable_Stiffnesses_Based_on_Potential_Energy_Reference.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E15.pdf"
+  ],
+  "citation_record": {
+   "title": "Deflection-Domain Passivity Control of Variable Stiffnesses Based on Potential Energy Reference",
+   "authors": "Michael Panzirsch, Marek Sierotowicz, Revanth Prakash, Harsimran Singh, Christian Ott",
+   "year": 2022,
+   "venue": "IEEE Robotics and Automation Letters",
+   "citations_at_retrieval": 14
+  }
+ },
+ {
+  "sha256": "12f6d0b4f11154920d602359fa526ded1e2aa50b636933652e94d1107bd37499",
+  "filename": "Development_of_a_Safety-_and_Energy-Aware_Impedance_Controller_for_Collaborative_Robots.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Development_of_a_Safety-_and_Energy-Aware_Impedance_Controller_for_Collaborative_Robots.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E16.pdf"
+  ],
+  "citation_record": {
+   "title": "Development of a Safety- and Energy-Aware Impedance Controller for Collaborative Robots",
+   "authors": "Gennaro Raiola, Carlos Alberto Cardenas, Tadele Shiferaw Tadele, Theo de Vries, Stefano Stramigioli",
+   "year": 2018,
+   "venue": "IEEE Robotics and Automation Letters",
+   "citations_at_retrieval": 121
+  }
+ },
+ {
+  "sha256": "aae85fd1a19e07fb4f159048e91497d6765f92389917774f27083c8ac33e640d",
+  "filename": "DiffTune_Auto-Tuning_through_Auto-Differentiation.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\DiffTune_Auto-Tuning_through_Auto-Differentiation.pdf"
+  ]
+ },
+ {
+  "sha256": "f80cd754772e91037e6dcfb2dd40f083d60c3d0148e1aff53fc76026c3138a48",
+  "filename": "Direct_adaptive_impedance_control_of_manipulators.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-cycle-2\\Direct_adaptive_impedance_control_of_manipulators.pdf"
+  ]
+ },
+ {
+  "sha256": "be9c6a029b3284db1032d7ef2d41483552a48b640db4e9acd76c22a3c61987c9",
+  "filename": "dqYs440MKMMJ.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\oa\\dqYs440MKMMJ.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G23.pdf"
+  ]
+ },
+ {
+  "sha256": "f6301c54950128042691e43a1d1e532e0ec61be8475a3731cf7524768b4a4f15",
+  "filename": "Dynamic_Adaptive_Hybrid_Impedance_Control_for_Dynamic_Contact_Force_Tracking_in_Uncertain_Environments.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Dynamic_Adaptive_Hybrid_Impedance_Control_for_Dynamic_Contact_Force_Tracking_in_Uncertain_Environments.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E18.pdf"
+  ],
+  "citation_record": {
+   "title": "Dynamic Adaptive Hybrid Impedance Control for Dynamic Contact Force Tracking in Uncertain Environments",
+   "authors": "Hongli Cao, Xiaoan Chen, Ye He, Xue Zhao",
+   "year": 2019,
+   "venue": "IEEE Access",
+   "citations_at_retrieval": 95
+  }
+ },
+ {
+  "sha256": "e3a6b2ab0dccf3b4e7f4ee251f3dae9ebe215fb13b2a422cde240f9d5bb04958",
+  "filename": "E17.pdf",
+  "paths": [
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E17.pdf"
+  ]
+ },
+ {
+  "sha256": "94323bf41e835bdabd98056933b06d7a5b264b869b77c4a4eac23368430515fa",
+  "filename": "E27.pdf",
+  "paths": [
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E27.pdf"
+  ]
+ },
+ {
+  "sha256": "4c71398a763e94b75f39d1f99665e57b5a48711b90f3524c20df3735df20a736",
+  "filename": "End-to-End Conformal Calibration for Optimization Under Uncertainty.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\End-to-End Conformal Calibration for Optimization Under Uncertainty.pdf"
+  ]
+ },
+ {
+  "sha256": "6b5750d2aba273fe67a8aa1d4c010c265101135fdb693f217b1bee44539d4c4b",
+  "filename": "End-to-End Learning of Hybrid Inverse Dynamics Models for Precise and Compliant Impedance Control.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\End-to-End Learning of Hybrid Inverse Dynamics Models for Precise and Compliant Impedance Control.pdf"
+  ],
+  "citation_record": {
+   "title": "End-to-End Learning of Hybrid Inverse Dynamics Models for Precise and Compliant Impedance Control",
+   "authors": "Moritz Reuss, Niels van Duijkeren, Robert Krug, Philipp Becker, Vaisakh Shaj, Gerhard Neumann",
+   "year": 2022,
+   "venue": "Robotics: Science and Systems XVIII",
+   "citations_at_retrieval": 24
+  }
+ },
+ {
+  "sha256": "791ba852c3e18ef18ded150c3b6366ed32bee91389b8118ddd562a29aac18369",
+  "filename": "Event-Triggered_Adaptive_Neural_Impedance_Control_of_Robotic_Systems.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Event-Triggered_Adaptive_Neural_Impedance_Control_of_Robotic_Systems.pdf"
+  ],
+  "citation_record": {
+   "title": "Event-Triggered Adaptive Neural Impedance Control of Robotic Systems",
+   "authors": "Shuai Ding, Jinzhu Peng, Hui Zhang, Yaonan Wang",
+   "year": 2024,
+   "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+   "citations_at_retrieval": 25
+  }
+ },
+ {
+  "sha256": "a8d97714f79e65ab4a0373d55767959b411e084f891f6f436b58eb3fd62ace29",
+  "filename": "Evolution_Strategies_Learning_With_Variable_Impedance_Control_for_Grasping_Under_Uncertainty.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Evolution_Strategies_Learning_With_Variable_Impedance_Control_for_Grasping_Under_Uncertainty.pdf"
+  ],
+  "citation_record": {
+   "title": "Evolution Strategies Learning With Variable Impedance Control for Grasping Under Uncertainty",
+   "authors": "Yingbai Hu, Xinyu Wu, Peng Geng, Zhijun Li",
+   "year": 2019,
+   "venue": "IEEE Transactions on Industrial Electronics",
+   "citations_at_retrieval": 69
+  }
+ },
+ {
+  "sha256": "cadf07c235cf390626b7c0167e8fbae88e10512001fa76ec0e3960b9d0727dec",
+  "filename": "Extended_State_Observer-Based_Integral_Sliding_Mode_Control_for_an_Underwater_Robot_With_Unknown_Disturbances_and_Uncertain_Nonlinearities.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\Extended_State_Observer-Based_Integral_Sliding_Mode_Control_for_an_Underwater_Robot_With_Unknown_Disturbances_and_Uncertain_Nonlinearities.pdf"
+  ]
+ },
+ {
+  "sha256": "46a6fd4dcffb97949662d9591745d663896f987b838ac7ac6f6643ac4a5fed81",
+  "filename": "Feasibility-Aware Decision-Focused Learning for Predicting Parameters in the Constraints.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Feasibility-Aware Decision-Focused Learning for Predicting Parameters in the Constraints.pdf"
+  ]
+ },
+ {
+  "sha256": "b16de3d4d1cf093c8e6278238d0331210baf34cb1483abb06bfeac481f67c221",
+  "filename": "feasibility-dfl.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\method-design-v4\\feasibility-dfl.pdf"
+  ]
+ },
+ {
+  "sha256": "8563538806c3fbd7f0473bfca7a6b7f9b6b32cad6121cc264364a2359c405a08",
+  "filename": "Finite-Time_Convergence_Adaptive_Fuzzy_Control_for_Dual-Arm_Robot_With_Unknown_Kinematics_and_Dynamics.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\Finite-Time_Convergence_Adaptive_Fuzzy_Control_for_Dual-Arm_Robot_With_Unknown_Kinematics_and_Dynamics.pdf"
+  ]
+ },
+ {
+  "sha256": "06c3c5357819e6fa301b9afd29e63a05c47175d3288a373bd8f1d0c6fb8babfe",
+  "filename": "Fixed-Time_Fuzzy_Control_of_Uncertain_Robots_With_Guaranteed_Transient_Performance.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\Fixed-Time_Fuzzy_Control_of_Uncertain_Robots_With_Guaranteed_Transient_Performance.pdf"
+  ]
+ },
+ {
+  "sha256": "3b173c666edca9decf7ee7c586f6cc178950c7a92e1a440e7e9de8e4cfa713ba",
+  "filename": "Fixed-Time_Neural_Control_of_Robot_Manipulator_With_Global_Stability_and_Guaranteed_Transient_Performance.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\Fixed-Time_Neural_Control_of_Robot_Manipulator_With_Global_Stability_and_Guaranteed_Transient_Performance.pdf"
+  ]
+ },
+ {
+  "sha256": "dc70a70164a00ac02b7003fc0803275966bc87f2539571bf2182c728cd09b205",
+  "filename": "Force-Based_Learning_of_Variable_Impedance_Skills_for_Robotic_Manipulation.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Force-Based_Learning_of_Variable_Impedance_Skills_for_Robotic_Manipulation.pdf"
+  ]
+ },
+ {
+  "sha256": "bcebdd2cccc8966c47e20588c708c24078c8eb237ff3a77765911002b830c772",
+  "filename": "Force_tracking_impedance_control_of_robot_manipulators_under_unknown_environment.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Force_tracking_impedance_control_of_robot_manipulators_under_unknown_environment.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E23.pdf"
+  ],
+  "citation_record": {
+   "title": "Force Tracking Impedance Control of Robot Manipulators Under Unknown Environment",
+   "authors": "S. Jung, T.C. Hsia, R.G. Bonitz",
+   "year": 2004,
+   "venue": "IEEE Transactions on Control Systems Technology",
+   "citations_at_retrieval": 638
+  }
+ },
+ {
+  "sha256": "4eab4c19577b0a79230cb3be63926fd0067bdb4bf0588cde79558dba24b2cc7d",
+  "filename": "G13.pdf",
+  "paths": [
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G13.pdf"
+  ]
+ },
+ {
+  "sha256": "4f7c22aee162f333f00cf3ca3d5b9bd11280a4536f53a20a03bbbdb8d6a5cc1e",
+  "filename": "G14.pdf",
+  "paths": [
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G14.pdf"
+  ]
+ },
+ {
+  "sha256": "1d201d6a86ddee3c87944d4b759229640a178392f5754bc05a5c76569369bfbd",
+  "filename": "G15.pdf",
+  "paths": [
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G15.pdf"
+  ]
+ },
+ {
+  "sha256": "3ce035f7f84eb620b89751104e73b821a1cc33a813570722b5974adc24131a34",
+  "filename": "G16.pdf",
+  "paths": [
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G16.pdf"
+  ]
+ },
+ {
+  "sha256": "1f835bc91859f2c96de3e955c809e2c9221ae283daaba372a82053134e8e3e21",
+  "filename": "G17.pdf",
+  "paths": [
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G17.pdf"
+  ]
+ },
+ {
+  "sha256": "8c28af9d24639161d4a5526200cb0786968ee21f96e305b147f34dffcd3a47a3",
+  "filename": "G21.pdf",
+  "paths": [
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G21.pdf"
+  ]
+ },
+ {
+  "sha256": "930b372b2ceaababa36770128981f1fb70c5f9a9d2f3cf7050f09394ff3217b4",
+  "filename": "general-safety-framework.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\method-design-v2\\general-safety-framework.pdf"
+  ]
+ },
+ {
+  "sha256": "08ddaa1c8d09845b54ae3e8a9ddaf6cf085045a6bcee4694ec07359136baf5bc",
+  "filename": "HUMAN-AUTOMATICA-2013-LBMPC.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\method-design-2026-08-24\\HUMAN-AUTOMATICA-2013-LBMPC.pdf"
+  ]
+ },
+ {
+  "sha256": "611ae5df321af5145e2ed6a31fe315b0fb07ecca2358248d6d693d7d6f7e4c6b",
+  "filename": "HUMAN-IJRR-2011-PSR.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\method-design-v3\\HUMAN-IJRR-2011-PSR.pdf"
+  ]
+ },
+ {
+  "sha256": "da5b55ffc997354b9ab1f7f0ec154b68657f9148b260c1745be8c29f77842a76",
+  "filename": "Human-Inspired_Active_Compliant_and_Passive_Shared_Control_Framework_for_Robotic_Contact-Rich_Tasks_in_Medical_Applications.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Human-Inspired_Active_Compliant_and_Passive_Shared_Control_Framework_for_Robotic_Contact-Rich_Tasks_in_Medical_Applications.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\fu.pdf"
+  ]
+ },
+ {
+  "sha256": "77bbf18425789537e86be70d08953a8f8cf3028c1ba11ff8da97f221a65337a6",
+  "filename": "Human-Inspired_Adaptive_Optimal_Control_Framework_for_Robot-Environment_Interaction.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Human-Inspired_Adaptive_Optimal_Control_Framework_for_Robot-Environment_Interaction.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E24.pdf"
+  ],
+  "citation_record": {
+   "title": "Human-Inspired Adaptive Optimal Control Framework for Robot-Environment Interaction",
+   "authors": "Haotian Liu, Yuchuang Tong, Zhengtao Zhang",
+   "year": 2025,
+   "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+   "citations_at_retrieval": 8
+  }
+ },
+ {
+  "sha256": "edca9c4ed521d2ee2bc6ec68ccae936922dfad631d83110dfb174805e50c13e1",
+  "filename": "Human-Like_Adaptation_of_Force_and_Impedance_in_Stable_and_Unstable_Interactions.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\Human-Like_Adaptation_of_Force_and_Impedance_in_Stable_and_Unstable_Interactions.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\reverse_analysis_samples\\R11.pdf"
+  ]
+ },
+ {
+  "sha256": "0c76d394f1a0618bc638635fec1e15a1cc5150cd30a95c13a0678d1b845e8ad5",
+  "filename": "HUMAN-TRO-2017-CWC.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\method-design-v3\\HUMAN-TRO-2017-CWC.pdf"
+  ]
+ },
+ {
+  "sha256": "27a8217cb9fe823cdf4c14bc6092fbadedb88051224835f8ee7b9e9436586afb",
+  "filename": "imoj6X2imAgJ.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\oa-v2\\imoj6X2imAgJ.pdf"
+  ]
+ },
+ {
+  "sha256": "850697cd098dfa15a44c2aee028cac3229221055d604119195b938418861f4f8",
+  "filename": "imOw8mw7I6cJ.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\oa-v2\\imOw8mw7I6cJ.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\F01.pdf"
+  ]
+ },
+ {
+  "sha256": "a3d54745d1344c73aff90f00ed83e57e9fb7edcbcedda8409fe4c20cc1769d6f",
+  "filename": "Impedance adaptation for optimal robot–environment interaction.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-cycle-2\\Impedance adaptation for optimal robot–environment interaction.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\F03.pdf"
+  ]
+ },
+ {
+  "sha256": "5f50df59171b73bd4767028eb0e0403557903702a294b563973b9d7293e0aa2a",
+  "filename": "Impedance and Interaction Control.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Impedance and Interaction Control.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E25.pdf"
+  ],
+  "citation_record": {
+   "title": "Impedance and Interaction Control",
+   "authors": "Neville Hogan, Stephen Buerger",
+   "year": 2004,
+   "venue": "Robotics and Automation Handbook",
+   "citations_at_retrieval": 334
+  }
+ },
+ {
+  "sha256": "444734add880540768a780fbc55aa9ff8b4eb172b446f16d0519d443106aaadd",
+  "filename": "Impedance Optimization for Uncertain Contact Interactions Through Risk Sensitive Optimal Control.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Impedance Optimization for Uncertain Contact Interactions Through Risk Sensitive Optimal Control.pdf",
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-topvenue-calibration\\Impedance Optimization for Uncertain Contact Interactions Through Risk Sensitive Optimal Control.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\risk_sensitive.pdf"
+  ],
+  "citation_record": {
+   "title": "Impedance Optimization for Uncertain Contact Interactions Through Risk Sensitive Optimal Control",
+   "authors": "Bilal Hammoud, Majid Khadiv, Ludovic Righetti",
+   "year": 2021,
+   "venue": "IEEE Robotics and Automation Letters",
+   "citations_at_retrieval": 35
+  }
+ },
+ {
+  "sha256": "8dd6e505a3817ef4b2de62eafbdc6d27a9c7cdb19db92fb402bfd4c26ab44459",
+  "filename": "Impedance_Control_An_Approach_to_Manipulation (1).pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch\\Impedance_Control_An_Approach_to_Manipulation (1).pdf"
+  ],
+  "citation_record": {
+   "title": "Impedance Control: An Approach to Manipulation",
+   "authors": "Neville Hogan",
+   "year": 1984,
+   "venue": "1984 American Control Conference",
+   "citations_at_retrieval": 1865
+  }
+ },
+ {
+  "sha256": "1cc73b9c95f68696c28a6c3c42d66af5fcdf491757139c34d0202397f78580c0",
+  "filename": "Impedance_Control_on_Arbitrary_Surfaces_for_Ultrasound_Scanning_Using_Discrete_Differential_Geometry.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Impedance_Control_on_Arbitrary_Surfaces_for_Ultrasound_Scanning_Using_Discrete_Differential_Geometry.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\H02.pdf"
+  ]
+ },
+ {
+  "sha256": "73eb3cd2ae74b43fe92fda00ebb0e93d0cba051e493f460a57030a80ff6d86ff",
+  "filename": "Impedance_Learning-Based_Adaptive_Control_for_HumanRobot_Interaction.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Impedance_Learning-Based_Adaptive_Control_for_HumanRobot_Interaction.pdf"
+  ],
+  "citation_record": {
+   "title": "Impedance Learning-Based Adaptive Control for Human–Robot Interaction",
+   "authors": "Mojtaba Sharifi, Vahid Azimi, Vivian K. Mushahwar, Mahdi Tavakoli",
+   "year": 2022,
+   "venue": "IEEE Transactions on Control Systems Technology",
+   "citations_at_retrieval": 105
+  }
+ },
+ {
+  "sha256": "b60e2359e42455c0f3f22fd7cca3624e8e7ad62eb68f3f0bd2384cac757f69f2",
+  "filename": "Impedance_Learning_for_Human-Guided_Robots_in_Contact_With_Unknown_Environments.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\Impedance_Learning_for_Human-Guided_Robots_in_Contact_With_Unknown_Environments.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E28.pdf"
+  ],
+  "citation_record": {
+   "title": "Impedance Learning for Human-Guided Robots in Contact With Unknown Environments",
+   "authors": "Xueyan Xing, Etienne Burdet, Weiyong Si, Chenguang Yang, Yanan Li",
+   "year": 2023,
+   "venue": "IEEE Transactions on Robotics",
+   "citations_at_retrieval": 82
+  }
+ },
+ {
+  "sha256": "8908f4eb309e09c87aeb5ab2ad5d98f053367c5d2d77658375bba326b07c103c",
+  "filename": "Impedance_Learning_for_Robotic_Contact_Tasks_Using_Natural_Actor-Critic_Algorithm.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Impedance_Learning_for_Robotic_Contact_Tasks_Using_Natural_Actor-Critic_Algorithm.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E29.pdf"
+  ],
+  "citation_record": {
+   "title": "Impedance Learning for Robotic Contact Tasks Using Natural Actor-Critic Algorithm",
+   "authors": "Byungchan Kim, Jooyoung Park, Shinsuk Park, Sungchul Kang",
+   "year": 2010,
+   "venue": "IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics",
+   "citations_at_retrieval": 128
+  }
+ },
+ {
+  "sha256": "b6e721a4cbb01b43001e75e6ec63e49fb7aa5f0f36b087c03e5a95bf81417dd7",
+  "filename": "Impedance_Learning_for_Robots_Interacting_With_Unknown_Environments.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch\\Impedance_Learning_for_Robots_Interacting_With_Unknown_Environments.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G06.pdf"
+  ]
+ },
+ {
+  "sha256": "31cb5ca9e0a5ce8ee400ce7a89c1aff0434f5bf3539ee0fb1a4581d73729f64c",
+  "filename": "Impedance_Optimization_for_Uncertain_Contact_Interactions_Through_Risk_Sensitive_Optimal_Control.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Impedance_Optimization_for_Uncertain_Contact_Interactions_Through_Risk_Sensitive_Optimal_Control.pdf"
+  ],
+  "citation_record": {
+   "title": "Impedance Optimization for Uncertain Contact Interactions Through Risk Sensitive Optimal Control",
+   "authors": "Bilal Hammoud, Majid Khadiv, Ludovic Righetti",
+   "year": 2021,
+   "venue": "IEEE Robotics and Automation Letters",
+   "citations_at_retrieval": 35
+  }
+ },
+ {
+  "sha256": "96ce8a16f69f28a66bc6471ca2ac4b3c8c236ce3b2b95a37ac802213447b100a",
+  "filename": "Impedance_Primitive-Augmented_Hierarchical_Reinforcement_Learning_for_Sequential_Tasks.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Impedance_Primitive-Augmented_Hierarchical_Reinforcement_Learning_for_Sequential_Tasks.pdf"
+  ],
+  "citation_record": {
+   "title": "Impedance Primitive-Augmented Hierarchical Reinforcement Learning for Sequential Tasks",
+   "authors": "Amin Berjaoui Tahmaz, Ravi Prakash, Jens Kober",
+   "year": 2025,
+   "venue": "2025 IEEE International Conference on Robotics and Automation (ICRA",
+   "citations_at_retrieval": 6
+  }
+ },
+ {
+  "sha256": "86a02756ecf06b2949c6b02c8cc24de9f02b830937ceece3ff5fdd37aca6ec49",
+  "filename": "Impedance_Variation_and_Learning_Strategies_in_HumanRobot_Interaction.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Impedance_Variation_and_Learning_Strategies_in_HumanRobot_Interaction.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E32.pdf"
+  ],
+  "citation_record": {
+   "title": "Impedance Variation and Learning Strategies in Human–Robot Interaction",
+   "authors": "Mojtaba Sharifi, Amir Zakerimanesh, Javad K. Mehr, Ali Torabi, Vivian K. Mushahwar, Mahdi Tavakoli",
+   "year": 2022,
+   "venue": "IEEE Transactions on Cybernetics",
+   "citations_at_retrieval": 127
+  }
+ },
+ {
+  "sha256": "2accf4f5bcca33da8b6b3182f89b24267117dfa81e382154011260f77fd1e0e8",
+  "filename": "Implicit_Differential_Dynamic_Programming.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Implicit_Differential_Dynamic_Programming.pdf"
+  ]
+ },
+ {
+  "sha256": "11c86befaf291e79e7dfb9b591f743daa847e32b7a18acf5f1159d392447a5bc",
+  "filename": "Intention-driven adaptive impedance control of human-robot collaboration for open space tasks.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Intention-driven adaptive impedance control of human-robot collaboration for open space tasks.pdf"
+  ],
+  "citation_record": {
+   "title": "Intention-driven adaptive impedance control of human-robot collaboration for open space tasks",
+   "authors": "Hongmiao Zhang, Rui Zhou, Guozheng Wei, Zhaohua Yuan, Shaolong Kuang",
+   "year": 2026,
+   "venue": "International Journal of Intelligent Robotics and Applications",
+   "citations_at_retrieval": 2
+  }
+ },
+ {
+  "sha256": "2621039e5107a3d2e3d17ee9cca3b411566d5185d6ceb6a2519df40be192c8ce",
+  "filename": "Interior_Point_Differential_Dynamic_Programming.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Interior_Point_Differential_Dynamic_Programming.pdf"
+  ]
+ },
+ {
+  "sha256": "eb011ba6bffd8d6e3f4ea5a1c9f6dcbdd3802ac1e044f26ba553b5aa1253a551",
+  "filename": "kg4YFrTouZMJ.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\public-pdf\\kg4YFrTouZMJ.pdf"
+  ]
+ },
+ {
+  "sha256": "619d2a36f69d6302a2be85d8608f3d667b3f36f5c15537e42a24ee839087e5cc",
+  "filename": "Learning Variable Impedance Control.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-cycle-2\\Learning Variable Impedance Control.pdf"
+  ],
+  "citation_record": {
+   "title": "Model-Based Reinforcement Learning Variable Impedance Control for Human-Robot Collaboration",
+   "authors": "Loris Roveda, Jeyhoon Maskani, Paolo Franceschi, Arash Abdi, Francesco Braghin, Lorenzo Molinari Tosatti, Nicola Pedrocchi",
+   "year": 2020,
+   "venue": "Journal of Intelligent &amp; Robotic Systems",
+   "citations_at_retrieval": 258
+  }
+ },
+ {
+  "sha256": "43e25c35ac5f584e29004003c09f8870ae4ad7e9e9b7fb073e85dadcc7e42701",
+  "filename": "Learning-Based_Predictive_Impedance_Control_Towards_Safe_Predefined-Time_Physical_Robotic_Interaction.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Learning-Based_Predictive_Impedance_Control_Towards_Safe_Predefined-Time_Physical_Robotic_Interaction.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E34.pdf"
+  ],
+  "citation_record": {
+   "title": "Learning-Based Predictive Impedance Control Towards Safe Predefined-Time Physical Robotic Interaction",
+   "authors": "Junyuan Xue, Wenyu Liang, Yilan Xu, Yan Wu, Tong Heng Lee",
+   "year": 2025,
+   "venue": "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS",
+   "citations_at_retrieval": 1
+  }
+ },
+ {
+  "sha256": "be4bf80d1c04ffb11b77e970ab48e8dab2d1c45626bebc16393a2ce6a26e772d",
+  "filename": "Learning_a_Flexible_Neural_Energy_Function_With_a_Unique_Minimum_for_Globally_Stable_and_Accurate_Demonstration_Learning.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\Learning_a_Flexible_Neural_Energy_Function_With_a_Unique_Minimum_for_Globally_Stable_and_Accurate_Demonstration_Learning.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\reverse_analysis_samples\\R13.pdf"
+  ]
+ },
+ {
+  "sha256": "1cfc9c55441a561894cd0805f9c96f1955ed4584e84d322c626bb2d545763a5c",
+  "filename": "Learning_compliant_grasping_and_manipulation_by_teleoperation_with_adaptive_force_control.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\Learning_compliant_grasping_and_manipulation_by_teleoperation_with_adaptive_force_control.pdf"
+  ]
+ },
+ {
+  "sha256": "e527d217e488e5b90cecf70430ed8f3f12252cb6b851e84e2bc321484c082854",
+  "filename": "Learning_Compliant_Stiffness_by_Impedance_Control-Aware_Task_Segmentation_and_Multi-Objective_Bayesian_Optimization_with_Priors.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Learning_Compliant_Stiffness_by_Impedance_Control-Aware_Task_Segmentation_and_Multi-Objective_Bayesian_Optimization_with_Priors.pdf"
+  ],
+  "citation_record": {
+   "title": "Learning Compliant Stiffness by Impedance Control-Aware Task Segmentation and Multi-Objective Bayesian Optimization with Priors",
+   "authors": "Masashi Okada, Mayumi Komatsu, Ryo Okumura, Tadahiro Taniguchi",
+   "year": 2023,
+   "venue": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS",
+   "citations_at_retrieval": 10
+  }
+ },
+ {
+  "sha256": "2ca1b601e020439c0457a09209f8205999bd2c5930375b905bec6e48ca24908f",
+  "filename": "Learning_impedance_control_for_robotic_manipulators.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch\\Learning_impedance_control_for_robotic_manipulators.pdf"
+  ]
+ },
+ {
+  "sha256": "4c5983927bdc0f34ee1f28ff71c4147caa75e5ab1863e6db5b25a7b6cd61a281",
+  "filename": "Learning_Stable_State-Dependent_Variable_Impedance_Control_for_Compliant_Manipulation.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch\\Learning_Stable_State-Dependent_Variable_Impedance_Control_for_Compliant_Manipulation.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\F06.pdf"
+  ]
+ },
+ {
+  "sha256": "98d0fd0c224136d4a9d0e9f195cf107da29f455c41e14a70989161935667fde6",
+  "filename": "Learning_Variable_Impedance_Control_via_Inverse_Reinforcement_Learning_for_Force-Related_Tasks.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-cycle-2\\Learning_Variable_Impedance_Control_via_Inverse_Reinforcement_Learning_for_Force-Related_Tasks.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G07.pdf"
+  ]
+ },
+ {
+  "sha256": "98ba2f8876b85d21984eab003b9bc8350b6bc3cbaec609f9737f03c2c7071824",
+  "filename": "LJMBf6MAPHQJ.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\oa\\LJMBf6MAPHQJ.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G22.pdf"
+  ]
+ },
+ {
+  "sha256": "3065887a09e2ac25bd90e75973a3433df4ed07255aa44e67c71bd292b38def56",
+  "filename": "Minimally_Model-Based_Trajectory_Tracking_and_Variable_Impedance_Control_of_Flexible-Joint_Robots.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Minimally_Model-Based_Trajectory_Tracking_and_Variable_Impedance_Control_of_Flexible-Joint_Robots.pdf"
+  ],
+  "citation_record": {
+   "title": "Minimally Model-Based Trajectory Tracking and Variable Impedance Control of Flexible-Joint Robots",
+   "authors": "Emmanouil Spyrakos-Papastavridis, Jian S. Dai",
+   "year": 2021,
+   "venue": "IEEE Transactions on Industrial Electronics",
+   "citations_at_retrieval": 104
+  }
+ },
+ {
+  "sha256": "7f5d44a37cd491ef651419a8456c4b0aac8cc99667dfae97dfd62be9013ec8c5",
+  "filename": "Model predictive impedance control with Gaussian processes for human and environment interaction.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Model predictive impedance control with Gaussian processes for human and environment interaction.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\haninger.pdf"
+  ]
+ },
+ {
+  "sha256": "98640f395078621b2eb5bd53c3104ce120aaa36d5d855a901a56055b67e7bdbb",
+  "filename": "Model predictive variable impedance control towards safe robotic interaction in unknown disturbance-rich environments.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Model predictive variable impedance control towards safe robotic interaction in unknown disturbance-rich environments.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\xue.pdf"
+  ]
+ },
+ {
+  "sha256": "2529dd650eddbbe2379b187fb4cc74f8abd8bc0047b845bdb5105a3f45c1a43a",
+  "filename": "Model-Based Reinforcement Learning Variable Impedance Control for Human-Robot Collaboration.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Model-Based Reinforcement Learning Variable Impedance Control for Human-Robot Collaboration.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E37.pdf"
+  ],
+  "citation_record": {
+   "title": "Model-Based Reinforcement Learning Variable Impedance Control for Human-Robot Collaboration",
+   "authors": "Loris Roveda, Jeyhoon Maskani, Paolo Franceschi, Arash Abdi, Francesco Braghin, Lorenzo Molinari Tosatti, Nicola Pedrocchi",
+   "year": 2020,
+   "venue": "Journal of Intelligent &amp; Robotic Systems",
+   "citations_at_retrieval": 258
+  }
+ },
+ {
+  "sha256": "5e7ca83832edb4b565efa1c472dceecefbeb48489454cbd32fccebf04fb39a5d",
+  "filename": "Model-based variable impedance learning control for robotic manipulation.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Model-based variable impedance learning control for robotic manipulation.pdf"
+  ],
+  "citation_record": {
+   "title": "Model-based variable impedance learning control for robotic manipulation",
+   "authors": "Akhil S. Anand, Jan Tommy Gravdahl, Fares J. Abu-Dakka",
+   "year": 2023,
+   "venue": "Robotics and Autonomous Systems",
+   "citations_at_retrieval": 53
+  }
+ },
+ {
+  "sha256": "da5a79ede8701777f68dc7f504c8daed3ec2b17d2bb0ed20ae7c69f2e1a28c65",
+  "filename": "Model-based variable impedance learning control for robotic manipulation.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Model-based variable impedance learning control for robotic manipulation.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E40.pdf"
+  ],
+  "citation_record": {
+   "title": "Model-based variable impedance learning control for robotic manipulation",
+   "authors": "Akhil S. Anand, Jan Tommy Gravdahl, Fares J. Abu-Dakka",
+   "year": 2023,
+   "venue": "Robotics and Autonomous Systems",
+   "citations_at_retrieval": 53
+  }
+ },
+ {
+  "sha256": "590c39c181f4c5a0741dc4815e39022689a56c7b82aecc3e6aac452cafdf4942",
+  "filename": "Model-Based_ActorCritic_Learning_of_Robotic_Impedance_Control_in_Complex_Interactive_Environment.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Model-Based_ActorCritic_Learning_of_Robotic_Impedance_Control_in_Complex_Interactive_Environment.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E38.pdf"
+  ],
+  "citation_record": {
+   "title": "Model-Based Actor−Critic Learning of Robotic Impedance Control in Complex Interactive Environment",
+   "authors": "Xingwei Zhao, Shibo Han, Bo Tao, Zhouping Yin, Han Ding",
+   "year": 2022,
+   "venue": "IEEE Transactions on Industrial Electronics",
+   "citations_at_retrieval": 58
+  }
+ },
+ {
+  "sha256": "32960300e2d61d669865cf35865e1930c89670dd66b55f38e22427650740bf4b",
+  "filename": "Model-Based_Predictive_Impedance_Variation_for_Obstacle_Avoidance_in_Safe_HumanRobot_Collaboration.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Model-Based_Predictive_Impedance_Variation_for_Obstacle_Avoidance_in_Safe_HumanRobot_Collaboration.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E39.pdf"
+  ],
+  "citation_record": {
+   "title": "Model-Based Predictive Impedance Variation for Obstacle Avoidance in Safe Human–Robot Collaboration",
+   "authors": "Julian M. Salt Ducaju, Björn Olofsson, Rolf Johansson",
+   "year": 2025,
+   "venue": "IEEE Transactions on Automation Science and Engineering",
+   "citations_at_retrieval": 12
+  }
+ },
+ {
+  "sha256": "e71e6b1fb8696a4c2ea1370bc2d935de0c6cdcd10d2c9a51e3fc3afef4b71d4b",
+  "filename": "Model_Predictive_Variable_Impedance_Control_of_Manipulators_for_Adaptive_Precision-Compliance_Tradeoff.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Model_Predictive_Variable_Impedance_Control_of_Manipulators_for_Adaptive_Precision-Compliance_Tradeoff.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E41.pdf"
+  ],
+  "citation_record": {
+   "title": "Model Predictive Variable Impedance Control of Manipulators for Adaptive Precision-Compliance Tradeoff",
+   "authors": "Zhehao Jin, Dongdong Qin, Andong Liu, Wen-an Zhang, Li Yu",
+   "year": 2023,
+   "venue": "IEEE/ASME Transactions on Mechatronics",
+   "citations_at_retrieval": 84
+  }
+ },
+ {
+  "sha256": "214649cb20bdbb65714bc83a98948f1b7f60657e6a756c68390b3fb549c93ac6",
+  "filename": "Modeling_of_Viscoelastic_Contacts_and_Evolution_of_Limit_Surface_for_Robotic_Contact_Interface.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-environment-model\\Modeling_of_Viscoelastic_Contacts_and_Evolution_of_Limit_Surface_for_Robotic_Contact_Interface.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\F05.pdf"
+  ]
+ },
+ {
+  "sha256": "4892a562b5886bf8b3d3165b3d7df2066edfa8dbfaa737207241b4cc3f32be0b",
+  "filename": "Motion_learning_and_adaptive_impedance_for_robot_control_during_physical_interaction_with_humans.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Motion_learning_and_adaptive_impedance_for_robot_control_during_physical_interaction_with_humans.pdf"
+  ],
+  "citation_record": {
+   "title": "Motion learning and adaptive impedance for robot control during physical interaction with humans",
+   "authors": "Elena Gribovskaya, Abderrahmane Kheddar, Aude Billard",
+   "year": 2011,
+   "venue": "2011 IEEE International Conference on Robotics and Automation",
+   "citations_at_retrieval": 254
+  }
+ },
+ {
+  "sha256": "08254f7096c15ffd2c317f535ca55ea906a316281dcafc70cbfe4cec9b9b546b",
+  "filename": "Moving_Parameters_Optimization-Based_Model_Predictive_Adaptive_Impedance_Control_for_Robotic_Motion_Force_Tracking.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-topvenue-calibration\\Moving_Parameters_Optimization-Based_Model_Predictive_Adaptive_Impedance_Control_for_Robotic_Motion_Force_Tracking.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G02.pdf"
+  ]
+ },
+ {
+  "sha256": "ed87e10164c937acc3169eaa39e07706b9d9308c5647891a2b6ecf08c6795660",
+  "filename": "Multi-hierarchy interaction control of a redundant robot using impedance learning.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\Multi-hierarchy interaction control of a redundant robot using impedance learning.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\reverse_analysis_samples\\R15.pdf"
+  ]
+ },
+ {
+  "sha256": "3359f97104a431b83b3bfd09e597437209411ee86ff7bd1e7d889f1bfcda0b41",
+  "filename": "Neighboring Extremal Optimal Control Theory for Parameter-Dependent Closed-loop Laws.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-topvenue-calibration\\Neighboring Extremal Optimal Control Theory for Parameter-Dependent Closed-loop Laws.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\NEOC.pdf"
+  ]
+ },
+ {
+  "sha256": "e035395c37a873f6a22e46d9355cf296047c00178ba47d9224464e6d5cbcbac7",
+  "filename": "Neural-Network-Based_Optimal_Impedance_Control_for_Robots_in_Physical_Interaction_With_Soft_Environments.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Neural-Network-Based_Optimal_Impedance_Control_for_Robots_in_Physical_Interaction_With_Soft_Environments.pdf",
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Neural-Network-Based_Optimal_Impedance_Control_for_Robots_in_Physical_Interaction_With_Soft_Environments.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\NNBO.pdf"
+  ],
+  "citation_record": {
+   "title": "Neural-Network-Based Optimal Impedance Control for Robots in Physical Interaction With Soft Environments",
+   "authors": "Haiyi Kong, Guangzhu Peng, Guang Li, Chenguang Yang",
+   "year": 2025,
+   "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+   "citations_at_retrieval": 5
+  }
+ },
+ {
+  "sha256": "1b2241bae2cc9137ed7cf9952f76343339cbfc2eb522186c591fb042ad65fb86",
+  "filename": "Neural_Control_of_Bimanual_Robots_With_Guaranteed_Global_Stability_and_Motion_Precision.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\Neural_Control_of_Bimanual_Robots_With_Guaranteed_Global_Stability_and_Motion_Precision.pdf"
+  ]
+ },
+ {
+  "sha256": "06f5965943da4191a6109446d916e3c8917fa4380717dac2993804b737afe420",
+  "filename": "Neural_Control_of_Robot_Manipulators_With_Trajectory_Tracking_Constraints_and_Input_Saturation.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\Neural_Control_of_Robot_Manipulators_With_Trajectory_Tracking_Constraints_and_Input_Saturation.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\reverse_analysis_samples\\R17.pdf"
+  ]
+ },
+ {
+  "sha256": "cc924fb441adb65d89fd38db397b0bd8d45d2cf6b2b38a67b5994d79758c102b",
+  "filename": "NMPC-based variable admittance control with passivity constraints.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-topvenue-calibration\\NMPC-based variable admittance control with passivity constraints.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G03.pdf"
+  ]
+ },
+ {
+  "sha256": "4373e0cd9ee0343e8f32db725979753a52aefebe91deccf012e3dda3bf873161",
+  "filename": "On_Handling_Variable_Stiffness_Parameters_in_Compliance_Control_via_MPC.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-topvenue-calibration\\On_Handling_Variable_Stiffness_Parameters_in_Compliance_Control_via_MPC.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G04.pdf"
+  ]
+ },
+ {
+  "sha256": "180e818b56a8b7f582585daf14ea769cb8fea3dd16a4f75f0fecee042738dc1e",
+  "filename": "Optimal_Impedance_Force-Tracking_Control_Design_With_Impact_Formulation_for_Interaction_Tasks.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Optimal_Impedance_Force-Tracking_Control_Design_With_Impact_Formulation_for_Interaction_Tasks.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E44.pdf"
+  ],
+  "citation_record": {
+   "title": "Optimal Impedance Force-Tracking Control Design With Impact Formulation for Interaction Tasks",
+   "authors": "Loris Roveda, Niccolo Iannacci, Federico Vicentini, Nicola Pedrocchi, Francesco Braghin, Lorenzo Molinari Tosatti",
+   "year": 2016,
+   "venue": "IEEE Robotics and Automation Letters",
+   "citations_at_retrieval": 145
+  }
+ },
+ {
+  "sha256": "3f0e0ea61ba901be3342e6885fc14013c87c22bf6becace8d668a0e7322aed2f",
+  "filename": "Optimization-Based_Variable_Impedance_Control_of_Robotic_Manipulator_for_Medical_Contact_Tasks.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Optimization-Based_Variable_Impedance_Control_of_Robotic_Manipulator_for_Medical_Contact_Tasks.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\H01.pdf"
+  ]
+ },
+ {
+  "sha256": "546c49b7e9b3a00a1bee4aee0aaa898e27910140f23a32f79e92bce3d40ac108",
+  "filename": "Optimized_Impedance_Adaptation_of_Robot_Manipulator_Interacting_With_Unknown_Environment.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Optimized_Impedance_Adaptation_of_Robot_Manipulator_Interacting_With_Unknown_Environment.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E45.pdf"
+  ],
+  "citation_record": {
+   "title": "Optimized Impedance Adaptation of Robot Manipulator Interacting With Unknown Environment",
+   "authors": "Xing Liu, Shuzhi Sam Ge, Fei Zhao, Xuesong Mei",
+   "year": 2021,
+   "venue": "IEEE Transactions on Control Systems Technology",
+   "citations_at_retrieval": 51
+  }
+ },
+ {
+  "sha256": "2bb1896322dcc49b8d540446ac5ff74b5690d4e7520d9c4c7e15bb9b0358d3b2",
+  "filename": "P01_✔接触模型_但后来找到的Smooth_Path_Planning_and_Dynamic_Contact_Force_Regulation_for_Robotic_Ultrasound_Scanning.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-supplied-softscan-2026-08-22\\P01_✔接触模型_但后来找到的Smooth_Path_Planning_and_Dynamic_Contact_Force_Regulation_for_Robotic_Ultrasound_Scanning.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\F07.pdf"
+  ]
+ },
+ {
+  "sha256": "e5041abbffdb083353caeafd55b928f8ef032f063b6bb5436afc4bbb058a4f2d",
+  "filename": "P04_Task_Space_Compliant_Control_and_Six-Dimensional_Force_Regulation_Toward_Automated_Robotic_Ultrasound_Imaging.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-supplied-softscan-2026-08-22\\P04_Task_Space_Compliant_Control_and_Six-Dimensional_Force_Regulation_Toward_Automated_Robotic_Ultrasound_Imaging.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\F09.pdf"
+  ]
+ },
+ {
+  "sha256": "1eb6314312b2cb2517451c507ba1e8bd30dd9d5f1077b9cec44f276ed4226262",
+  "filename": "P05_A pressure field model for -含笔记.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-supplied-softscan-2026-08-22\\P05_A pressure field model for -含笔记.pdf"
+  ]
+ },
+ {
+  "sha256": "c5f19e7c967a2d9fe92e1475a94f9297552361fd054340463327c5ebc4957e3e",
+  "filename": "P06_Choosing_Stiffness_and_Damping_for_Optimal_Impedance_Planning.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-supplied-softscan-2026-08-22\\P06_Choosing_Stiffness_and_Damping_for_Optimal_Impedance_Planning.pdf"
+  ]
+ },
+ {
+  "sha256": "d4c5d354a1271c941d12d870a81b9f3fe7eb21b48ee1ebdd787e0462c2ee7674",
+  "filename": "P08_Real-Time_Deformable-Contact-Aware_Model_Predictive_Control_for_Force-Modulated_Manipulation.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-supplied-softscan-2026-08-22\\P08_Real-Time_Deformable-Contact-Aware_Model_Predictive_Control_for_Force-Modulated_Manipulation.pdf"
+  ]
+ },
+ {
+  "sha256": "e6b2f547b1b5252cbb5d6a3ac248488d718f05e20987a89f80da5bb7bf311a09",
+  "filename": "P09_Viscoelastic model based force control for soft tissue interaction and its application in physiological motion compensation.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-supplied-softscan-2026-08-22\\P09_Viscoelastic model based force control for soft tissue interaction and its application in physiological motion compensation.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\F10.pdf"
+  ]
+ },
+ {
+  "sha256": "907095d86fc553d5339fd6cd38871b3b2a54c8ae841f7ee6b584348564801353",
+  "filename": "P17_Estimating_material_elasticity_by_spherical_indentation_load-relaxation_tests_on_viscoelastic_samples_of_finite_thickness.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-supplied-softscan-2026-08-22\\P17_Estimating_material_elasticity_by_spherical_indentation_load-relaxation_tests_on_viscoelastic_samples_of_finite_thickness.pdf"
+  ]
+ },
+ {
+  "sha256": "2f3a3b2de5b2522e3f76f2ea1a7aab935b935b7802f65ba4d15e05ffe4cb2457",
+  "filename": "P18_✔Toward_Safe_and_Collaborative_Robotic_Ultrasound_Tissue_Scanning_in_Neurosurgery.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-supplied-softscan-2026-08-22\\P18_✔Toward_Safe_and_Collaborative_Robotic_Ultrasound_Tissue_Scanning_in_Neurosurgery.pdf"
+  ]
+ },
+ {
+  "sha256": "9eb4b4954ecbca35da058d19a26d91d862f86d172e7ba897c0bb3891dea39920",
+  "filename": "Passive_Interaction_Control_With_Dynamical_Systems.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Passive_Interaction_Control_With_Dynamical_Systems.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E46.pdf"
+  ],
+  "citation_record": {
+   "title": "Passive Interaction Control With Dynamical Systems",
+   "authors": "Klas Kronander, Aude Billard",
+   "year": 2016,
+   "venue": "IEEE Robotics and Automation Letters",
+   "citations_at_retrieval": 127
+  }
+ },
+ {
+  "sha256": "40cda55e7c21233807e88f7bfd1b85f453b7f8dff9eb7d717b336fa291fcc8a4",
+  "filename": "Passive_Model-Predictive_Impedance_Control_for_Safe_Physical_HumanRobot_Interaction.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Passive_Model-Predictive_Impedance_Control_for_Safe_Physical_HumanRobot_Interaction.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E47.pdf"
+  ],
+  "citation_record": {
+   "title": "Passive Model-Predictive Impedance Control for Safe Physical Human–Robot Interaction",
+   "authors": "Ran Cao, Long Cheng, Houcheng Li",
+   "year": 2024,
+   "venue": "IEEE Transactions on Cognitive and Developmental Systems",
+   "citations_at_retrieval": 44
+  }
+ },
+ {
+  "sha256": "1c76095ca6c05e1cba7b8a57dd2877b1913d5d1d2b9a6f197c536dd6d9d138f9",
+  "filename": "Passivity-Based_Skill_Motion_Learning_in_Stiffness-Adaptive_Unified_Force-Impedance_Control.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Passivity-Based_Skill_Motion_Learning_in_Stiffness-Adaptive_Unified_Force-Impedance_Control.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E48.pdf"
+  ],
+  "citation_record": {
+   "title": "Passivity-Based Skill Motion Learning in Stiffness-Adaptive Unified Force-Impedance Control",
+   "authors": "Kübra Karacan, Hamid Sadeghian, Robin Kirschner, Sami Haddadin",
+   "year": 2022,
+   "venue": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS",
+   "citations_at_retrieval": 22
+  }
+ },
+ {
+  "sha256": "5f91bd4d3b0ceba6d15c2d80ee45358278b73d1e866a00215fffa816e19809a8",
+  "filename": "Passivity_Filter_for_Variable_Impedance_Control.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Passivity_Filter_for_Variable_Impedance_Control.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E49.pdf"
+  ],
+  "citation_record": {
+   "title": "Passivity Filter for Variable Impedance Control",
+   "authors": "Maciej Bednarczyk, Hassan Omran, Bernard Bayle",
+   "year": 2020,
+   "venue": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS",
+   "citations_at_retrieval": 23
+  }
+ },
+ {
+  "sha256": "4adc4c65a3cf415478bafa45b6e5ef3a6820ba50f6154cd1e2681227d1786a20",
+  "filename": "Passivity_Preservation_for_Variable_Impedance_Control_of_Compliant_Robots.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-cycle-2\\Passivity_Preservation_for_Variable_Impedance_Control_of_Compliant_Robots.pdf"
+  ]
+ },
+ {
+  "sha256": "ecd855c5b03ffa3307f5cfcf2aa3e23a0495417c20b26fa387545e05e9db6e56",
+  "filename": "Perturbation-Based_Stiffness_Inference_in_Variable_Impedance_Control.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Perturbation-Based_Stiffness_Inference_in_Variable_Impedance_Control.pdf"
+  ],
+  "citation_record": {
+   "title": "Perturbation-Based Stiffness Inference in Variable Impedance Control",
+   "authors": "Edoardo Caldarelli, Adrià Colomé, Carme Torras",
+   "year": 2022,
+   "venue": "IEEE Robotics and Automation Letters",
+   "citations_at_retrieval": 29
+  }
+ },
+ {
+  "sha256": "feaf9611e71898f066f4a889a09d08659a6296bf104a9a59ef8a86db658334ce",
+  "filename": "Physical_HumanRobot_Interaction_of_a_Robotic_Exoskeleton_By_Admittance_Control.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\Physical_HumanRobot_Interaction_of_a_Robotic_Exoskeleton_By_Admittance_Control.pdf"
+  ]
+ },
+ {
+  "sha256": "48d572aa27135e1d2e0524499e4a15e91eb64131ecde011290645895a8eac9a3",
+  "filename": "Pontryagin_Differentiable_Programming.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Pontryagin_Differentiable_Programming.pdf"
+  ]
+ },
+ {
+  "sha256": "befd4071f0f690d52934f635269d9d8c3a90d16fb177393061a7f2d19c568b53",
+  "filename": "predict-calibrate.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\method-design-v4\\predict-calibrate.pdf"
+  ]
+ },
+ {
+  "sha256": "497941aa8db2df18d149c88b2c2df956c4097a32c24458f9c78583aa8ebbcd82",
+  "filename": "Q-Learning-based model predictive variable impedance control for physical human-robot collaboration.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Q-Learning-based model predictive variable impedance control for physical human-robot collaboration.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G08.pdf"
+  ]
+ },
+ {
+  "sha256": "8c37d7a397fe27c711cabfb5315b0cd83a4d661b0cf5d4a05afe06160ff3f961",
+  "filename": "RA-L-2022-3184800.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\method-design-2026-08-24\\RA-L-2022-3184800.pdf"
+  ]
+ },
+ {
+  "sha256": "e94c6ed87f582f1c09bfba8bf138219ef40f921a4bd2f5529fabb1fe076a2c38",
+  "filename": "Real-Time_Deformable-Contact-Aware_Model_Predictive_Control_for_Force-Modulated_Manipulation.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Real-Time_Deformable-Contact-Aware_Model_Predictive_Control_for_Force-Modulated_Manipulation.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\wijayarathne.pdf"
+  ]
+ },
+ {
+  "sha256": "48c6c6dad872091fc519cca47796856050980704f2d488536b258a64a63a3cd9",
+  "filename": "Reinforcement_Learning_of_Impedance_Policies_for_Peg-in-Hole_Tasks_Role_of_Asymmetric_Matrices.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Reinforcement_Learning_of_Impedance_Policies_for_Peg-in-Hole_Tasks_Role_of_Asymmetric_Matrices.pdf"
+  ],
+  "citation_record": {
+   "title": "Reinforcement Learning of Impedance Policies for Peg-in-Hole Tasks: Role of Asymmetric Matrices",
+   "authors": "Shir Kozlovsky, Elad Newman, Miriam Zacksenhouse",
+   "year": 2022,
+   "venue": "IEEE Robotics and Automation Letters",
+   "citations_at_retrieval": 65
+  }
+ },
+ {
+  "sha256": "5bd946805ced6c76accb82249a9558c8331012e79a4973ca7a24c81a5eba2441",
+  "filename": "Reinforcement_Learning_on_Variable_Impedance_Controller_for_High-Precision_Robotic_Assembly.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Reinforcement_Learning_on_Variable_Impedance_Controller_for_High-Precision_Robotic_Assembly.pdf"
+  ],
+  "citation_record": {
+   "title": "Reinforcement Learning on Variable Impedance Controller for High-Precision Robotic Assembly",
+   "authors": "Jianlan Luo, Eugen Solowjow, Chengtao Wen, Juan Aparicio Ojea, Alice M. Agogino, Aviv Tamar, Pieter Abbeel",
+   "year": 2019,
+   "venue": "2019 International Conference on Robotics and Automation (ICRA",
+   "citations_at_retrieval": 290
+  }
+ },
+ {
+  "sha256": "7d70f9e2af6433a26ad1c2104facf07497f11101ee6d5dfec238d1b714c65d62",
+  "filename": "Repetitive_Impedance_Learning-Based_Physically_HumanRobot_Interactive_Control.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Repetitive_Impedance_Learning-Based_Physically_HumanRobot_Interactive_Control.pdf"
+  ],
+  "citation_record": {
+   "title": "Repetitive Impedance Learning-Based Physically Human–Robot Interactive Control",
+   "authors": "Tairen Sun, Jiantao Yang, Yongping Pan, Hongliu Yu",
+   "year": 2024,
+   "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+   "citations_at_retrieval": 27
+  }
+ },
+ {
+  "sha256": "885f62e07ee4bd37fb0e08bdaa6068fd5e4e473d11e0be239ba8bdd2d8c393db",
+  "filename": "Residual_Reinforcement_Learning_for_Robot_Control.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\Residual_Reinforcement_Learning_for_Robot_Control.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\reverse_analysis_samples\\R19.pdf"
+  ]
+ },
+ {
+  "sha256": "29f6867292bc199d77fae120d327715c56bae1f021c2af7a2ddcb76e510975ca",
+  "filename": "Revisiting Implicit Differentiation for Learning Problems in Optimal Control.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Revisiting Implicit Differentiation for Learning Problems in Optimal Control.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\implicit_differentiation.pdf"
+  ]
+ },
+ {
+  "sha256": "7c49ccd0dd6ad38a6cac2ae208443925cb61407dc76f74746131275b50c683aa",
+  "filename": "Riccati-ZORO An efficient algorithm for heuristic online optimization of internal feedback laws in robust and stochastic model predictive control.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-topvenue-calibration\\Riccati-ZORO An efficient algorithm for heuristic online optimization of internal feedback laws in robust and stochastic model predictive control.pdf"
+  ]
+ },
+ {
+  "sha256": "180bd41b01ed134eda7f6e8defe1ee2d18371f9a9b5667cc3133875f9453227f",
+  "filename": "Robot_Impedance_Iterative_Learning_with_Sparse_Online_Gaussian_Process(1).pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Robot_Impedance_Iterative_Learning_with_Sparse_Online_Gaussian_Process(1).pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E54.pdf"
+  ],
+  "citation_record": {
+   "title": "Robot Impedance Iterative Learning with Sparse Online Gaussian Process",
+   "authors": "Yongping Pan, Tian Shi, Wei Li, Bin Xu, Choon Ki Ahn",
+   "year": 2025,
+   "venue": "IEEE/CAA Journal of Automatica Sinica",
+   "citations_at_retrieval": 6
+  }
+ },
+ {
+  "sha256": "7273b1391fe1c1878e666f7073beea113a2093a37406c447788ab0e9ec74b2ef",
+  "filename": "Robot_Learning_System_Based_on_Adaptive_Neural_Control_and_Dynamic_Movement_Primitives.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\Robot_Learning_System_Based_on_Adaptive_Neural_Control_and_Dynamic_Movement_Primitives.pdf"
+  ]
+ },
+ {
+  "sha256": "06e9849e9828eb465fe086c777236d798182769e01d9803ed74030f9590b3300",
+  "filename": "Robust Contact-rich Manipulation through Implicit Motor Adaptation.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-topvenue-calibration\\Robust Contact-rich Manipulation through Implicit Motor Adaptation.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G09.pdf"
+  ]
+ },
+ {
+  "sha256": "ee4107aabcbe2cdabfa921572edd44973ef2f8a9593b1aca710a34a1b5027e0b",
+  "filename": "Robust_Nonprehensile_Dynamic_Object_Transportation_A_Closed-Loop_Sensitivity_Approach.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-topvenue-calibration\\Robust_Nonprehensile_Dynamic_Object_Transportation_A_Closed-Loop_Sensitivity_Approach.pdf"
+  ]
+ },
+ {
+  "sha256": "8c73c3aa81aa95a0c42695c86616df0557759d4ae2296a824ed656375bb04b60",
+  "filename": "Robust_Passivity_and_Passivity_Relaxation_for_Impedance_Control_of_Flexible-Joint_Robots_with_Inner-Loop_Torque_Control.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Robust_Passivity_and_Passivity_Relaxation_for_Impedance_Control_of_Flexible-Joint_Robots_with_Inner-Loop_Torque_Control.pdf"
+  ],
+  "citation_record": {
+   "title": "Robust Passivity and Passivity Relaxation for Impedance Control of Flexible-Joint Robots with Inner-Loop Torque Control",
+   "authors": "Kevin Haninger, Masayoshi Tomizuka",
+   "year": 2018,
+   "venue": "IEEE/ASME Transactions on Mechatronics",
+   "citations_at_retrieval": 43
+  }
+ },
+ {
+  "sha256": "476bfd6d7e547fbcdbd24a1273650aae71248778f616a4e711f9d12b50e5086e",
+  "filename": "Safe_Machine-Learning-Supported_Model_Predictive_Force_and_Motion_Control_in_Robotics.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-environment-model\\Safe_Machine-Learning-Supported_Model_Predictive_Force_and_Motion_Control_in_Robotics.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\F04.pdf"
+  ]
+ },
+ {
+  "sha256": "325fa4ca39935da9d09e7d677a6e9b5cd7a012363ad0c68f74f511a9233edb92",
+  "filename": "Second-Order Constrained Dynamic Optimization.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Second-Order Constrained Dynamic Optimization.pdf"
+  ]
+ },
+ {
+  "sha256": "0c94e0814ff5e75654afb6d5a020b79f8d1958f2fe9df121e5cc5b0ef57a4d58",
+  "filename": "Sensitivity-Aware_Model_Predictive_Control_for_Robots_With_Parametric_Uncertainty.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-topvenue-calibration\\Sensitivity-Aware_Model_Predictive_Control_for_Robots_With_Parametric_Uncertainty.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G12.pdf"
+  ]
+ },
+ {
+  "sha256": "8c65bc3022f3ecc37d2bf10ad31bd30c9ebb5c243faec05aecdc85f9d7ce816c",
+  "filename": "Sparse Pose Graph Optimization in Cycle Space.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-topvenue-calibration\\Sparse Pose Graph Optimization in Cycle Space.pdf"
+  ]
+ },
+ {
+  "sha256": "56381283da01e0a21a861cc8d1bfda97b377095b64051d7d68156b94e848cc3b",
+  "filename": "spo.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\method-design-v4\\spo.pdf"
+  ]
+ },
+ {
+  "sha256": "a5c874128858f67df6193f96d1a122c78c7e8cb017082ae6bda5083f78ad03d5",
+  "filename": "Stability_Considerations_for_Variable_Impedance_Control.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch\\Stability_Considerations_for_Variable_Impedance_Control.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\H04.pdf"
+  ]
+ },
+ {
+  "sha256": "86fdc0c9becea0b6cec335b1086bbf7b2be36e5be7fc42eaa2430c6e3f8126f1",
+  "filename": "Stability_Criterion_and_Stability_Enhancement_for_a_Thruster-Assisted_Underwater_Hexapod_Robot.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\Stability_Criterion_and_Stability_Enhancement_for_a_Thruster-Assisted_Underwater_Hexapod_Robot.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\reverse_analysis_samples\\R21.pdf"
+  ]
+ },
+ {
+  "sha256": "29938178c7fd61b2d5e6d2d66c3e763f622a2d5d8552823126ff8c320b0ecf31",
+  "filename": "Stable_execution_of_contact_tasks_using_impedance_control.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch\\Stable_execution_of_contact_tasks_using_impedance_control.pdf"
+  ]
+ },
+ {
+  "sha256": "adf70dd79adc8ae2c239813d28a573e84bf004a081dcd667501e0c8d4d665e4f",
+  "filename": "Symmetry-Optimized_Image_Guidance_and_Biomechanics-Driven_Force_Measurement_for_Robotic_Ultrasound_A_Control_Framework_Enhancing_Sonographic_Qua.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-topvenue-calibration\\Symmetry-Optimized_Image_Guidance_and_Biomechanics-Driven_Force_Measurement_for_Robotic_Ultrasound_A_Control_Framework_Enhancing_Sonographic_Qua.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G10.pdf"
+  ]
+ },
+ {
+  "sha256": "a78470558a68d6fbbf15374d3961f8c0b78a5c8adc15807258aa1e0d2863dd28",
+  "filename": "Teleoperation_Control_Based_on_Combination_of_Wave_Variable_and_Neural_Networks.pdf",
+  "paths": [
+   "D:\\桌面\\正文writing skill\\文献资料\\Teleoperation_Control_Based_on_Combination_of_Wave_Variable_and_Neural_Networks.pdf"
+  ]
+ },
+ {
+  "sha256": "85ef8da4d6fd9a1f67fd2af0afa32d0dcfa585546908c60533c7d236bf12a8be",
+  "filename": "UDE-Based_Variable_Impedance_Control_of_Uncertain_Robot_Systems.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\UDE-Based_Variable_Impedance_Control_of_Uncertain_Robot_Systems.pdf"
+  ],
+  "citation_record": {
+   "title": "UDE-Based Variable Impedance Control of Uncertain Robot Systems",
+   "authors": "Yiting Dong, Beibei Ren",
+   "year": 2019,
+   "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+   "citations_at_retrieval": 95
+  }
+ },
+ {
+  "sha256": "03b127af6bcd08e4fb913e4a8b9ae799892d6b8261542c06d8a5bbd063d9457e",
+  "filename": "Ultrasound-Guided Assistive Robots for Scoliosis Assessment with Optimization-based Control and Variable Impedance.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Ultrasound-Guided Assistive Robots for Scoliosis Assessment with Optimization-based Control and Variable Impedance.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\H03.pdf"
+  ]
+ },
+ {
+  "sha256": "fb205ecf3d6bda309dcdb708b49f736d6e5283b18de999e6a8b9398c75efff00",
+  "filename": "Unified_Motion_Force_Impedance_Control_for_Manipulators_in_Unknown_Contact_Environments_Based_on_Robust_Model-Reaching_Approach.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Unified_Motion_Force_Impedance_Control_for_Manipulators_in_Unknown_Contact_Environments_Based_on_Robust_Model-Reaching_Approach.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E57.pdf"
+  ],
+  "citation_record": {
+   "title": "Unified Motion/Force/Impedance Control for Manipulators in Unknown Contact Environments Based on Robust Model-Reaching Approach",
+   "authors": "Yinjie Lin, Zheng Chen, Bin Yao",
+   "year": 2021,
+   "venue": "IEEE/ASME Transactions on Mechatronics",
+   "citations_at_retrieval": 94
+  }
+ },
+ {
+  "sha256": "8fc536b4d97b68ec0150bef32055375f6255cfb4dfede46af3f2570565f40b10",
+  "filename": "Variable Impedance Control - A Reinforcement Learning Approach.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Variable Impedance Control - A Reinforcement Learning Approach.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E58.pdf"
+  ],
+  "citation_record": {
+   "title": "Variable Impedance Control - A Reinforcement Learning Approach",
+   "authors": "J. Buchli, E. Theodorou, F. Stulp, S. Schaal",
+   "year": 2010,
+   "venue": "Robotics: Science and Systems VI",
+   "citations_at_retrieval": 109
+  }
+ },
+ {
+  "sha256": "82d97efa48c02d5370572b909768ea5d7c3d63ffbfc3bf6d725bc5b2d3b5628c",
+  "filename": "Variable impedance models including fuzzy fractional order for control of human–robot interaction a systematic review.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Variable impedance models including fuzzy fractional order for control of human–robot interaction a systematic review.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_papers\\E59.pdf"
+  ],
+  "citation_record": {
+   "title": "Variable impedance models including fuzzy fractional order for control of human–robot interaction: a systematic review",
+   "authors": "Mohammad-Reza Sayyed Noorani, Eylaf Hossein Abud, Saeid Sahmani, Babak Safaie",
+   "year": 2025,
+   "venue": "The International Journal of Advanced Manufacturing Technology",
+   "citations_at_retrieval": 4
+  }
+ },
+ {
+  "sha256": "729eb6924ee3077eefc5d1cd26b49a26e6493e811062b80b60edcd08ba85b0b2",
+  "filename": "Variable_Impedance_Skill_Learning_for_Contact-Rich_Manipulation.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-v2\\Variable_Impedance_Skill_Learning_for_Contact-Rich_Manipulation.pdf"
+  ],
+  "citation_record": {
+   "title": "Variable Impedance Skill Learning for Contact-Rich Manipulation",
+   "authors": "Quantao Yang, Alexander Durr, Elin Anna Topp, Johannes A. Stork, Todor Stoyanov",
+   "year": 2022,
+   "venue": "IEEE Robotics and Automation Letters",
+   "citations_at_retrieval": 38
+  }
+ },
+ {
+  "sha256": "b781172e237a9f6d6e482cc0619b92bb46906da71963c5e6580c47e26bd15565",
+  "filename": "Velocity_Level_Approximation_of_Pressure_Field_Contact_Patches.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-environment-model\\Velocity_Level_Approximation_of_Pressure_Field_Contact_Patches.pdf"
+  ]
+ },
+ {
+  "sha256": "c446ce32996944be5bd8c486df0b0221955f032d9b38f788c327f58d51a177b5",
+  "filename": "ves.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\method-design-v4\\ves.pdf"
+  ]
+ },
+ {
+  "sha256": "ed3a5bb455f008d86e275bfcd7a3bb5a7ba1b30330ba52d2122bff0d3cb3f95d",
+  "filename": "Viscoelastic modeling based force control framework for enhancing operation safety of soft tissue for orthopedic surgical robots.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-environment-model\\Viscoelastic modeling based force control framework for enhancing operation safety of soft tissue for orthopedic surgical robots.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G11.pdf"
+  ]
+ },
+ {
+  "sha256": "3c7fb337e45b571e924d418dbed6b67a13185fd2aa32020be6632e234e9ca9af",
+  "filename": "Visuotactile and Explicitly Force-Controlled Robotic Ultrasound for Abdominal Volumetric Reconstruction.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-topvenue-calibration\\Visuotactile and Explicitly Force-Controlled Robotic Ultrasound for Abdominal Volumetric Reconstruction.pdf",
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\piedra_volumetric.pdf"
+  ]
+ },
+ {
+  "sha256": "91c48521ecc2837ef724db74e62e2cea8e1b1aae1f7b160f820152c6e9b143ef",
+  "filename": "YOPO.pdf",
+  "paths": [
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\method_transfer\\YOPO.pdf"
+  ]
+ },
+ {
+  "sha256": "d84447b44743253740eb2889f34db6316336cefe8fba4d740cf9d36e5bf79749",
+  "filename": "ZUU9058b5_oJ.pdf",
+  "paths": [
+   "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\public-pdf\\ZUU9058b5_oJ.pdf"
+  ]
+ }
+]
