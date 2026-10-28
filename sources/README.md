@@ -11,3 +11,7 @@
 4. 本目录的 `pdfs/`
 
 引用数来自 `impedance-control-e2e/FULLTEXT_DOWNLOAD_BATCH_V2.md`（Google Scholar 检索时记录），只覆盖其中 64 篇；比较时按年均引用看。
+
+几处文件名不直观：Geiger T-RO2026 = `E17.pdf`；Li T-RO2025 = `E27.pdf`；Anand RAS2023 = `imoj6X2imAgJ.pdf`；Peng/Yang TNNLS2022 = `G15.pdf`（`pdfs/` 另有一份）；Dyck RA-L2022 = `Impedance_Control_on_Arbitrary_Surfaces…`（另有 `RA-L-2022-3184800.pdf`）。
+
+`index.json` 的引用匹配有误：Buchli IJRR2011（`Learning Variable Impedance Control.pdf`）被标成 258 次、2020 年，那是 Roveda JIRS2020 的记录。

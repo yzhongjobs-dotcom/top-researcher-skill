@@ -2,7 +2,7 @@
 
 **何时读：** 设计正式实验、选择对比方法、整理实验结论时。
 
-例子只用于说明，不是必须照做的规定；合适就用，不合适就回到判断标准。例子出处见[首轮逆向分析](../references/examples/first_round_reverse_analysis.md)：R 编号见 §2–3，Buchli、Kang、Xue、Dyck、Jin、Fu 和 R22 见 §7；新一轮逐篇与按 section 的分析见[参考资料](../references/README.md)。通用反例见[anti_patterns](../references/anti_patterns.md)。
+例子只用于说明，不是必须照做的规定；合适就用，不合适就回到判断标准。例子出处见[首轮逆向分析](../references/examples/first_round_reverse_analysis.md)：R 编号见 §2–3，Buchli、Kang、Xue、Dyck、Jin、Fu 和 R22 见 §7；新一轮逆向分析（顶刊在各阶段的实际做法、单篇画像、两两对比）见[参考资料](../references/README.md)。通用反例见[anti_patterns](../references/anti_patterns.md)。
 
 **核心目的：** 用实验证明四件事：
 - 方法解决了所提问题；

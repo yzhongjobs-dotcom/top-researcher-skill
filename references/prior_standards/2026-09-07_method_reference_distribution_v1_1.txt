@@ -1,0 +1,1170 @@
+> **给 agent 的读法（2026-10-28 加，正文未改）：** 这是 2026-09-07 的"顶会顶刊 Method 经验标尺 v1.1"，原在研究项目 `project_records/references/`，是本文件夹方法标准与校准做法的起点：真实论文画像 → 两两对比 → 期刊画像 → 与当前 idea 的差距，以及 §11.4 对标准本身的反向检验。其中的画像需对照原文复核。它写于 ARIS 时期、面向 Codex，§11.2 的一票否决、"mandatory"等强制步骤不作为防守式关卡使用（见 README §四"过度防守"）；按用户后来确认的原则，判断以实际能力与证据为准。文中 "current method" 指被评估的 idea。
+
+Empirical reference distribution for methods at leading venues
+Reference Corpus → Pairwise Comparison → Venue Profile
+Scope: continuous physical/soft contact, force regulation, impedance control, online/predictive impedance selection, contact uncertainty, medical contact and robotic ultrasound
+Version: v1.1 Audited (2026-09-07)
+
+======================================================================
+0. This teaches Codex what real leading-journal methods look like, rather than imposing rules
+======================================================================
+
+This is neither an abstract checklist nor a mechanical acceptance gate.
+It translates researchers' empirical understanding of leading-venue methods into:
+
+Reference Corpus (real reference examples)
+→ Unified Paper Portrait
+→ Pairwise Comparison
+→ Venue Profile / Reference Distribution
+→ Current-Method Distance from actual leading-venue work
+
+The substantive questions are not:
+Does this method contain a certain module?
+How many new algorithms are used?
+Are there enough equations?
+
+Instead ask:
+If anonymized among real neighboring T-RO / IJRR / ICRA / RSS papers,
+would its problem scale, scientific increment, contribution framing, complexity, theoretical depth, execution and evidence
+belong to the same professional distribution? If not, specifically where does it differ?
+
+---------------------------------------------------------------------
+0.1 Empirical labels
+---------------------------------------------------------------------
+
+[S] Stable Pattern
+    Repeated across venues and different sample forms; a high-confidence empirical pattern.
+
+[V] Venue Tendency
+    Relatively stable for a venue in current samples, but neither necessary nor sufficient.
+
+[E] Example-Specific
+    Demonstrates acceptance of one published design, not a universal standard.
+
+[R] Red Line
+    Practices systematically distorting novelty, complexity or venue judgments.
+
+Important:
+Common in samples does not mean mandatory.
+Absent from samples does not mean prohibited.
+One complex leading-journal paper does not make complexity mandatory.
+One simple leading-journal paper does not make simplicity sufficient.
+
+
+---------------------------------------------------------------------
+0.2 What this reference can and cannot judge (added after reverse audit)
+---------------------------------------------------------------------
+
+The intended judgment is:
+Whether the method aligns with actual neighboring leading-venue distributions, and how it differs from representative target-venue papers.
+
+It is not an acceptance-probability predictor; publication venue is not absolute ground truth.
+Venue quality distributions overlap; submission strategies, length, review history and timing affect placement.
+
+Conclusions must therefore report:
+- Method-level alignment;
+- Nearest published exemplars;
+- Dimensions below/above the reference distribution;
+- Target-venue readiness;
+rather than asserting guaranteed acceptance.
+
+[S] Standards mean empirical alignment, not deterministic venue classification.
+[R] A similar RAS/TIM/RA-L publication alone cannot prove inadequacy for T-RO, nor the reverse.
+
+======================================================================
+1. Field boundary and reference corpus
+======================================================================
+
+1.1 Main field boundary
+
+Continuous physical contact / soft-contact manipulation
++ Force regulation and impedance/compliance control
++ Online or predictive impedance selection
++ Contact/environment/model uncertainty
++ Medical contact/robotic ultrasound as key application subfields
+
+Do not define this field's venue thresholds using distant UAV, pose-graph, pure legged-locomotion or generic numerical-optimization papers.
+Use distant work as strongest prior or for cross-field mechanism transfer only.
+
+1.2 Core venue calibration corpus
+
+T-RO：
+T1. Wijayarathne et al., 2023
+    Real-Time Deformable-Contact-Aware Model Predictive Control for Force-Modulated Manipulation
+    DOI: 10.1109/TRO.2023.3286070
+    Role: complex contact-aware real-time MPC with one main scientific line
+    Evidence: local full text verified
+
+T2. Pollayil et al., 2023
+    Choosing Stiffness and Damping for Optimal Impedance Planning
+    DOI: 10.1109/TRO.2022.3216078
+    Role: focused, relatively simple online impedance planning
+    Evidence：decision-grade full text / official manuscript
+
+T3. Li et al., 2025
+    Impedance Learning-Based Adaptive Force Tracking for Robot on Unknown Terrains
+    DOI: 10.1109/TRO.2025.3530345
+    Role: medium-complexity learning/variable-impedance/theoretical-closure example
+    Evidence: local full text verified
+
+T4. Fu et al., 2025
+    Human-Inspired Active Compliant and Passive Shared Control Framework for Robotic Contact-Rich Tasks in Medical Applications
+    DOI: 10.1109/TRO.2025.3548493
+    Role: multiobjective system-level T-RO work
+    Evidence: local full text verified
+
+IJRR：
+I1. Haddadin & Shahriari, 2024
+    Unified Force-Impedance Control
+    DOI: 10.1177/02783649241249194
+    Role: generalized unified-theory IJRR framework
+
+I2. Lachner, Nah, Hogan, first online 2025 / issue 2026
+    A Physically Consistent Stiffness Formulation for Contact-Rich Manipulation
+    DOI: 10.1177/02783649251393332
+    Role: highly focused but foundationally deep IJRR work
+
+I3. Piedra, Jeffrey, Khatib, 2026
+    Explicit Force-Based Control Strategies for Compliant Robot-Assisted Ultrasound Imaging
+    DOI: 10.1177/02783649261441635
+    Role: IJRR mechanism directly addressing an application bottleneck
+
+I4. Xue et al., first online 2025 / issue 2026
+    Robust Contact-Rich Manipulation Through Implicit Motor Adaptation
+    DOI: 10.1177/02783649251344638
+    Role: one clear algorithmic mechanism plus theory and multitask hardware evidence in IJRR
+
+Top Conference：
+C1. Jin et al., ICRA 2022
+    Constrained Variable Impedance Control Using Quadratic Programming
+    DOI: 10.1109/ICRA46639.2022.9812210
+
+C2. Beber et al., ICRA 2024
+    A Passive Variable Impedance Control Strategy With Viscoelastic Parameters Estimation of Soft Tissues for Safe Ultrasonography
+    DOI: 10.1109/ICRA57147.2024.10610167
+
+C3. Reuss et al., RSS 2022
+    End-to-End Learning of Hybrid Inverse Dynamics Models for Precise and Compliant Impedance Control
+    DOI: 10.15607/RSS.2022.XVIII.066
+
+1.3 Closest-prior / boundary corpus (field capability, not direct venue thresholds)
+
+- Hammoud et al., RA-L 2021, Impedance Optimization for Uncertain Contact Interactions Through Risk Sensitive Optimal Control
+- Roveda et al., Artificial Intelligence 2022, Q-Learning-Based Model Predictive Variable Impedance Control for Physical Human-Robot Collaboration
+- Haninger et al., RAS 2023, Model Predictive Impedance Control With Gaussian Processes for Human and Environment Interaction
+- Jin et al., T-Mech 2023, Model Predictive Variable Impedance Control of Manipulators for Adaptive Precision-Compliance Tradeoff
+- Fu et al., TIM 2024, Optimization-Based Variable Impedance Control of Robotic Manipulator for Medical Contact Tasks
+- Xue et al., RAS 2025, Model Predictive Variable Impedance Control Towards Safe Robotic Interaction in Unknown Disturbance-Rich Environments
+- Duan et al., T-Mech 2025, AuSoScan: Automatic Scoliosis Assessment by Ultrasound Scanning With Soft Contact Control
+
+[S] Reference corpora teach publication form; strongest-prior corpora determine remaining scientific increments. Keep them distinct.
+
+
+1.4 Paired boundary calibration corpus (same-line upgrades; added after reverse audit)
+
+Published top-journal samples alone do not establish venue boundaries. Prioritize successive versions within a research line, with similar authors/problems, to identify actual conference/specialized-journal to T-RO/IJRR increments.
+
+P1. Angelini et al., IROS 2019
+    Online Optimal Impedance Planning for Legged Robots
+    → Pollayil et al., T-RO 2023
+    Choosing Stiffness and Damping for Optimal Impedance Planning
+    Focus: extend narrower/structured online impedance planning to more general inertia, unified analytical/numerical treatment, fuller mathematics and multirobot evidence.
+
+P2. Wijayarathne et al. conference version
+    → Wijayarathne et al., T-RO 2023
+    Focus: 2-block → 3-block decomposition, online MPC, dynamic disturbances and low-level execution.
+    This pair shows journal upgrades can preserve the core while adding generality, online execution and evidence closure.
+
+P3. Fu et al., TIM 2024
+    Optimization-Based Variable Impedance Control of Robotic Manipulator for Medical Contact Tasks
+    → Fu et al., T-RO 2025
+    Human-Inspired Active Compliant and Passive Shared Control Framework...
+    Focus: expand online QP stiffness/energy tanks/medical-contact tests into shared control, whole-system passivity and operator-workload/system evidence.
+
+P4. Jin et al., ICRA 2022
+    Constrained Variable Impedance Control Using Quadratic Programming
+    → Jin et al., T-Mech 2023
+    Model Predictive Variable Impedance Control...
+    Focus: focused constrained update → multistep prediction and broader precision–compliance tradeoffs.
+
+[S] Paired comparisons better reveal substantive upgrades than venue guessing across unrelated authors/problems.
+[V] Journal upgrades often broaden generality, mathematical closure, execution, evidence or claims, rather than algorithm counts.
+
+======================================================================
+2. Read every paper with the same eight-dimensional portrait
+======================================================================
+
+D1 Problem Level
+- What actual failure/bottleneck is addressed?
+- Is it foundational theory, general control, a system issue or a narrow application?
+- What concrete capability is missing without a solution?
+
+D2 Scientific Delta
+- What has the strongest prior achieved?
+- What actual additional step is taken?
+- Does novelty concern models, variables, feedback roles, algorithm structure, theory, real-time or system capability?
+
+D3 Contribution Packaging
+- What scientific object frames the actual increment?
+- A new relation, generalization, unified framework, capability leap or system interconnection?
+- Which mature tools are not claimed as separate innovations?
+
+D4 Method Complexity
+- How many principal and supporting mechanism layers exist?
+- What do modeling, optimization/learning, stability/safety and real-time execution each do?
+
+D5 Necessity / Structural Naturalness
+- Does each major module address an actual failure?
+- Is there an obviously simpler substitute?
+- Do authors choose simple solutions when sufficient?
+
+D6 Theory / Mathematical Closure
+- What stability, passivity, convergence, physical consistency, constraints or robustness is established?
+- Does theoretical depth match the claim?
+
+D7 Engineering Closure
+- Do optimizer/planner outputs actually enter control?
+- Is execution online/real-time?
+- Are interfaces, sensing, model errors and contact failures addressed?
+
+D8 Evidence Closure
+- Do baselines directly test paper-level claims?
+- Are there ablations, disturbances, dynamic environments, hardware or user studies?
+- Does evidence strength match claims and complexity?
+
+[S] Judge the complete eight-dimensional portrait; no single dimension substitutes for it.
+
+---------------------------------------------------------------------
+2.1 Dual contribution reconstruction (added after reverse audit)
+---------------------------------------------------------------------
+
+An author's introduction/contribution list is not automatically the scientific delta.
+Record simultaneously:
+
+A. Author-Stated Contribution
+B. Auditor-Reconstructed Delta against strongest prior
+C. Packaging Uplift from B to mechanisms/relations/capabilities/frameworks
+D. Packaging Validity supported by equations and experiments
+
+Strong A with small B indicates narrative-inflation risk;
+reasonable B with module-list A indicates under-packaging;
+consistent A and B indicate framing aligned with substance.
+
+[R] Authors' novel/first/contribution wording does not independently prove novelty.
+
+---------------------------------------------------------------------
+2.2 Complexity vector (added after reverse audit)
+---------------------------------------------------------------------
+
+Low/medium/high is only a summary; formal pairwise comparisons separate:
+
+C = [
+  C_model      : contact/environment/robot model layers and coupling,
+  C_decision   : online variables and decision levels,
+  C_solver     : optimizer/decomposition/inner–outer levels,
+  C_guarantee  : robustness/passivity/safety/certification layers,
+  C_execution  : high-level / low-level / estimator / asynchronous execution loops,
+  C_evidence   : ablation/hardware/user-evidence burden needed to justify them
+]
+
+Use no fixed numerical thresholds; compare relative complexity for matched problem/delta/claims.
+
+[S] Overdesign means a complexity axis far above comparable scientific deltas without corresponding capability/guarantee/evidence, rather than merely many modules.
+
+
+======================================================================
+3. Actual T-RO paper portraits
+======================================================================
+
+3.1 Wijayarathne et al., T-RO 2023
+
+Problem：
+Existing TO discovers contact and exploits forces, but accurate simultaneous motion/force tracking in soft environments remains limited;
+full robot/deformable-contact constrained TO is difficult online.
+
+Scientific Delta：
+The core is none of Hertz, DDP, ADMM, IK or MPC individually, but:
+
+deformable contact physics
+→ constrained trajectory optimization
+→ desired motion and force jointly planned
+→ distributed solution enables real-time MPC
+
+Relative to the authors' conference version, the journal extension preserves much of the core:
+- 2-block → 3-block, separating IK;
+- Online planner MPC;
+- Stronger static/dynamic disturbance tests;
+- Added low-level admittance control.
+
+Packaging：
+Soft-contact dynamics plus constrained force–motion TO and real-time MPC validation, not invention of DDP/ADMM/IK.
+
+Complexity: medium to high.
+contact model + robot/contact dynamics + DDP/IK/projection + ADMM + MPC + low-level force controller。
+
+Necessity：
+Dynamics, kinematics, constraints and online solution justify decomposition. Low-level admittance supports execution rather than a second scientific delta.
+
+Theory：
+Emphasis: contact dynamics and constrained-optimization closure, not an extensive new stability theory.
+
+Engineering：
+Real-time MPC, high-level planning, low-level control, static/dynamic disturbances.
+
+Evidence：
+Model validation, multiple Cartesian motions, force–motion tracking and disturbances.
+
+Lessons:
+[S] Many mature tools can coexist in a leading-journal paper when serving one new paper-level relation.
+[S] Problem scale must justify solver complexity.
+[E] DDP–IK–Projection plus ADMM is this implementation, not a T-RO requirement.
+
+3.2 Pollayil et al., T-RO 2023
+
+Problem：
+Despite extensive impedance-control work, general real-time online stiffness/damping selection without extra F/T sensors is lacking.
+
+Scientific Delta：
+For given Cartesian inertia, plan stiffness/damping online to limit perturbation effects;
+use analytical solutions for diagonally dominant inertia and numerical optimization for general nondiagonal cases, forming a more general planning framework.
+
+Packaging：
+Frame online impedance planning as a control-design problem, rather than merely optimization plus impedance control.
+
+Complexity: low to medium.
+One optimization core, analytical/numerical branches, stability/passivity and an online loop.
+
+Necessity：
+Use analytical solutions where possible; numerical solution only for general cases.
+This demonstrates that unnecessary complexity is not rewarded.
+
+Theory：
+optimization formulation、performance bounds、stability/passivity。
+
+Engineering：
+No F/T sensor; quadruped and arm; real-time operation.
+
+Evidence：
+Multiple robots test generality and real-time applicability.
+
+Lessons:
+[S] Meaningful generalization with complete mathematics/hardware can support T-RO publication.
+[S] Minimum sufficient complexity matters more than algorithm layers.
+
+3.3 Li et al., T-RO 2025
+
+Problem：
+Classical adaptation is limited under nonlinear/dynamic environments and estimation error;
+human-like impedance learning is laborious; RL/DRL faces safety, interpretability, convergence and overfitting issues.
+
+Scientific Delta：
+DRL feedforward learns impedance tuning
++ variable-impedance feedback closes force tracking
++ couch contact model bounds safe sim-to-real transfer
++ stability/convergence analysis + state-aware regression address RL weaknesses。
+
+Packaging：
+The paper-level capability is interpretable, safely transferable learned variable-impedance force tracking with theoretical closure under uncertain nonlinear environments.
+
+Complexity: medium.
+learning + VIC feedback + simplified contact model + stability/convergence analysis。
+
+Necessity：
+Each major component maps to a failure stated by the authors.
+
+Theory：
+Lyapunov/contraction arguments directly support stability/convergence claims.
+
+Engineering：
+Sim-to-real, real robots and static/quasistatic/dynamic environments.
+
+Evidence：
+Constant impedance, classical adaptation and proposed method; regression-vector comparisons support overfitting claims.
+
+Lessons:
+[S] Multiple components are not necessarily overdesign when closing required failures of one paper-level capability.
+[S] More mechanisms require corresponding module-level evidence/ablations.
+
+3.4 Fu et al., T-RO 2025
+
+Problem：
+Teleoperated medical-contact tasks jointly face force tracking/compliance, workload and whole-system passivity.
+
+Scientific Delta：
+QP,VIC,shared control and energy tanks have precedents; the delta connects:
+active compliant force regulation
++ human–robot shared control
++ global passivity
+into a complete medical-contact shared-control framework.
+
+Packaging：
+Authors acknowledge prior passivity/energy-tank/shared-control work; innovation is system interconnection and integrated capability.
+
+Complexity: high.
+leader/follower + bilateral teleoperation + Cartesian impedance + online QP stiffness + force compensation + global tank + shared control。
+
+Necessity：
+Force regulation, operator assistance and whole-system passivity make the claim itself broad enough to justify complexity.
+
+Theory：
+Passivity/energy arguments serve whole-system claims; QP serves stiffness selection/force performance.
+
+Engineering：
+ROS, haptics, robot and real-time QP/passivity. Communication delay is not fully addressed; retain this boundary.
+
+Evidence：
+Autonomous force tracking, shared-control validation and a 12-user study; evidence addresses force error, passivity and workload.
+
+Lessons:
+[S] Broader system claims can justify broader complexity/evidence.
+[S] System contributions require system-level evidence.
+[E] A 12-user study supports this paper's human-factors claim; it is not generally mandatory for T-RO.
+
+======================================================================
+4. Actual IJRR paper portraits
+======================================================================
+
+4.1 Haddadin & Shahriari — Unified Force-Impedance Control, IJRR 2024
+
+Problem：
+Robots need compliance and exact force regulation across rigid/flexible joints, measured/estimated forces and contact/noncontact transitions.
+
+Scientific Delta：
+This is not the first force/impedance combination. IJRR expands the UFIC lineage into a broader unified framework covering more robot/system conditions and arbitrary passive environments.
+
+Packaging：
+The unified framework is itself the scientific object; strength comes from generality, theoretical unity and practical coverage.
+
+Complexity: high but unified; force regulation, impedance, tanks and transitions share one passivity framework.
+
+Necessity：
+Crucially, authors note contact loss could be treated entirely in the energy/tank domain, but avoid impractical complexity through direct state-based shaping.
+
+Theory: deep; passivity/stability are core contributions.
+Engineering: rigid/flexible robots and sensed/estimated forces.
+Evidence: multiple robot settings support the broad framework.
+
+Lessons:
+[S] Complex IJRR frameworks generally need matching generality/theoretical unity.
+[S] Unified-theory papers still avoid impractical over-unification.
+
+4.2 Lachner, Nah, Hogan — Physically Consistent Stiffness, IJRR 2025/2026
+
+Problem：
+Traditional task-to-joint stiffness mappings neglect basis changes in curved configuration space, producing asymmetry and damaging consistency/passivity/energy properties.
+
+Scientific Delta：
+change of basis on curved space
+→ conventional derivative misses connection term
+→ incorporate Christoffel symbols
+→ recover physically consistent symmetric stiffness。
+
+Packaging：
+The contribution repairs persistent physical inconsistency, rather than merely adding a correction term.
+
+Complexity: low; one foundational correction dominates.
+
+Necessity：
+No MPC/learning/robust stack is needed for this mathematical/physical-consistency problem; extra modules would dilute it.
+
+Theory: deep symmetry, energy and passivity implications.
+Engineering: real-robot validation.
+Evidence: physical consequences of correction, rather than large benchmarks.
+
+Lessons:
+[S] Leading-journal depth is not monotonic in method complexity.
+[S] Foundational corrections can support IJRR with minimal methods.
+
+4.3 Piedra, Jeffrey, Khatib — Explicit Force-Based Control, IJRR 2026
+
+Problem：
+Robotic ultrasound often uses implicit force/admittance control through motion loops, causing bandwidth/phase-lag limitations.
+
+Scientific Delta：
+Explicit force control already exists; the actual delta is:
+identify motion-loop bottleneck in robotic ultrasound
+→ directly regulate force/moment at end effector
+→ integrate probe orientation / haptic framework
+→ obtain much more responsive dynamic-contact behavior。
+
+Packaging：
+Explicit force-based architecture is the appropriate role for compliant robotic ultrasound, not invention of force control.
+
+Complexity: medium.
+explicit force/moment + 6-DoF haptic + force-based probe orientation + acoustic-coupling alignment。
+
+Necessity：
+If an implicit motion loop is the root cause, changing architecture may suffice without a default large robust-MPC stack.
+
+Theory emphasizes force-control formulation, integration and physical response.
+Engineering: dynamic phantoms, external disturbances, heterogeneity and actual ultrasound imaging.
+Evidence：
+Against state-of-the-art integral adaptive admittance: phase lag 121° → 5.76°, mean force-error reductions about 77.7% / 72.6%, plus image-quality evidence.
+
+Lessons:
+[S] A direct mechanism targeting a bottleneck with a substantial capability/performance leap can support IJRR.
+[S] More elaborate prediction is not automatically more advanced.
+[E] These improvement values are case-specific, not IJRR thresholds.
+
+4.4 Xue et al. — Implicit Motor Adaptation, IJRR 2026
+
+Problem：
+Uncertain parameters impede contact-manipulation generalization; randomization can be conservative and explicit adaptation may need accurate identification/retraining.
+
+Scientific Delta：
+rough parameter distribution
+→ tensor-train implicit policy representation
+→ efficient parameter-conditioned policy retrieval
+→ avoid precise identification/retraining while retaining adaptation。
+
+Packaging：
+Implicit motor adaptation is one clearly named mechanism directly comparable to prior work.
+
+Complexity: medium; tensor-train representation, policy retrieval and theory, rather than independent controller stacking.
+
+Necessity：
+Efficient parameter-conditioned retrieval must justify tensor trains.
+
+Theory: theoretical analysis included.
+Engineering: multiple contact-rich primitives in simulation and reality.
+Evidence: multiple physical-parameter instances test robustness/generalization.
+
+Lessons:
+[S] IJRR also accepts one core algorithmic object with theory and broad contact-rich evidence.
+
+======================================================================
+5. Actual leading-conference paper portraits
+======================================================================
+
+5.1 Jin et al., ICRA 2022
+
+Problem: fixed impedance adapts poorly to changing precision/compliance/task constraints.
+Delta: formulate variable-impedance updates as constrained QP producing executable parameters online.
+Packaging: constrained variable impedance via QP is a focused technical increment.
+Complexity: low to medium; VIC,QP,constraints.
+Theory: necessary formulation/constraints within conference length, not broad unification.
+Engineering/evidence: online implementation and experimental comparisons.
+
+[V] ICRA accepts focused technical deltas with closed problem–method–experiment logic.
+
+5.2 Beber et al., ICRA 2024
+
+Problem: safe accurate probe/body interaction under changing tissue mechanics and contact loss.
+
+Delta：
+online tissue viscoelastic estimation
+→ physical constraints for QP variable impedance
+→ energy tank / passivity
+→ safe ultrasound force control。
+
+Packaging: tissue mechanics informs safe ultrasound variable impedance, beyond QP plus tanks.
+
+Complexity: medium; tissue model/estimation,QP impedance,physical constraints,tank/passivity.
+Necessity: each layer maps to target-task failures.
+Engineering：real-time + patient dummy torso + contact loss。
+Evidence: safety,force control and contact-loss behavior support claims.
+
+[S] Conferences can contain complete multimodule chains; module count does not distinguish journals.
+
+5.3 Reuss et al., RSS 2022
+
+Problem: rigid dynamics are modelable, but history-dependent/partially observed friction/flexibility are difficult; high gains reduce compliance.
+
+Delta：
+physically consistent rigid-body prior
++ recurrent neural residual
+→ better inverse dynamics feedforward
+→ same tracking with much lower impedance feedback gains。
+
+Packaging: hybrid inverse dynamics supports precision with compliant impedance, not simply physics plus RNN.
+
+Complexity: medium-low; physical prior,RNN residual,feedforward impedance.
+Necessity: memory addresses hysteresis/partial observability.
+Engineering：7-DoF real robot。
+Evidence closes model accuracy/generalization into actual feedback-gain reduction.
+
+[V] A sharp mechanism with direct robot consequences is one strong RSS form.
+
+======================================================================
+6. Pairwise comparisons: learning ranges from real paper differences
+======================================================================
+
+6.1 T-RO：Wijayarathne vs Pollayil
+
+Shared stable patterns [S]:
+- A core control problem expressible in one sentence;
+- No requirement that every underlying tool be original;
+- Mathematical formulation and online/real-robot closure;
+- Supporting mechanisms are not inflated into separate major innovations.
+
+Differences:
+Wijayarathne: broad soft-contact dynamics,constrained force–motion planning and real-time operation
+→ Naturally complex methods.
+
+Pollayil: focused online stiffness/damping planning and perturbation bounds
+→ Focused methods.
+
+Conclusion [S]:
+T-RO has no fixed algorithm-layer count. The stable relation is:
+Complexity scales with problem and scientific-delta scope.
+
+6.2 T-RO：Li vs Fu
+
+Commonality [S]:
+Both use many existing ideas to form new complete capabilities, with major components addressing failures.
+
+Li: algorithm/control-centered, one main objective, support for learning safety/interpretability/convergence.
+Fu: system-centered force regulation,workload and whole-system passivity, with broader methods/evidence.
+
+Conclusion [S]:
+Assess multimodule overdesign against claim scope.
+
+6.3 IJRR：Lachner vs UFIC
+
+Lachner: foundational inconsistency → one correction → minimal method,deep theory,hardware.
+UFIC: general force/impedance unification → broad robots,sensing,passive environments → extensive theory.
+
+Shared conclusion [S]:
+IJRR does not mean T-RO plus more modules.
+It favors deep/general scientific objects with complete mechanisms,theory and evidence.
+
+6.4 IJRR：Piedra vs UFIC
+
+Piedra: specific domain bottleneck and architectural change produce major dynamic-response gains.
+UFIC: general problem,framework and broad theory.
+
+Conclusion [S]:
+IJRR supports broad theory or persistent domain bottlenecks with strong mechanisms/evidence.
+Application does not automatically lower value, nor broad systems automatically raise it.
+
+6.5 ICRA Beber vs T-RO Fu
+
+Beber ICRA already closes tissue estimation → QP VIC → passivity → ultrasound safety.
+Fu T-RO places QP VIC within broader shared-control/system-passivity claims and adds user evidence.
+
+Lesson [V]:
+Journal upgrades often expand:
+- Problem/capability scope;
+- Separation from strongest prior;
+- Theoretical/evidence depth and breadth;
+rather than adding one algorithm.
+
+6.6 ICRA Jin vs T-RO Pollayil
+
+Both address online/constrained impedance selection.
+Jin：focused QP VIC。
+Pollayil: more general planning,inertia structure,analytical/numerical solutions,performance/stability and multiple robots.
+
+Lesson [V]:
+Focused conference-to-T-RO upgrades often add generality,mathematical closure and evidence breadth, not more algorithm names.
+
+6.7 RSS Reuss vs T-RO Li
+
+Reuss: short causal chain,hybrid model → better feedforward → lower feedback gains.
+Li: broader learning,feedback,transfer boundaries and theory.
+
+Shared conclusion [S]:
+Strong papers connect mechanisms to robot consequences, beyond isolated metric improvements.
+
+
+6.8 Paired-lineage comparisons take priority over unrelated-paper comparisons
+
+For same-author/problem conference→journal,specialized-journal→T-RO or early→mature versions, prioritize:
+- Added scientific delta;
+- Expanded generality;
+- Whether theory develops from local results into a complete account;
+- Demonstration-to-closed-loop online/real-time execution;
+- Single-task-to-multicondition/multirobot/system evidence;
+- Technical-point-to-paper-level scientific framing.
+
+[S] Such pairs reduce confounding from problems,author ability and research lines when learning venue boundaries.
+
+======================================================================
+7. Venue Profile / Reference Distribution
+======================================================================
+
+7.1 T-RO
+
+[V] Problem: important specific control/manipulation failures, general or application-specific.
+
+[S] Delta: tools need not all be new, but nontrivial paper-level progress against strongest prior is needed, for example:
+- meaningful generalization；
+- new control relation / role；
+- integrated capability；
+- system-level interconnection；
+- previously infeasible → real-time/executable。
+
+[V] Packaging: samples often have 1 main delta plus supporting contributions; counts are not thresholds.
+
+[S] Complexity varies widely; alignment with problem/claim/delta is stable.
+
+[V] Theory often exceeds short-conference depth, but type follows claims.
+
+[S] Online/physical-contact claims require controller/robot execution closure.
+
+[V] Complex methods/broad claims require corresponding disturbance,ablation,hardware/user evidence.
+
+Empirical center:
+important failure
++ defensible nontrivial Method delta
++ matched mathematical closure
++ real executable robot evidence
+
+7.2 IJRR
+
+[S] IJRR is not T-RO plus more modules.
+
+[V] At least one of the following is more common:
+- foundational inconsistency / deep mechanism；
+- broad/general framework；
+- general control understanding；
+- target-domain persistent bottleneck with strong general significance/capability jump。
+
+[S] Very low or high complexity does not define IJRR.
+
+[V] Theory emphasizes explanation,generality,physical/mathematical depth or framework completeness.
+
+[V] Evidence must match claim scope:
+Foundational theory demonstrates physical consequences; general frameworks cover broad settings; application bottlenecks need direct SOTA/task-level comparisons.
+
+Empirical center:
+deep/general scientific object
++ complete mechanism/theory/algorithm
++ evidence strong enough to support generality or capability significance
+
+7.3 ICRA
+
+[V] Focused technical deltas include optimization formulations,constrained controllers,domain integration and safety/passivity/estimation mechanisms.
+
+[S] ICRA also permits full multimodule routes; module counts cannot separate conference/journal work.
+
+[V] Current conference samples more often concentrate problem scope,generalization,theory and evidence.
+
+7.4 RSS
+
+Nearby RSS samples are few, so retain only [V]:
+A distinctive algorithmic/modeling mechanism with substantial direct robot/control consequences is one strong form.
+
+[R] Reuss's physics-plus-RNN design is not a fixed RSS template.
+
+
+7.5 Venue-distribution overlap (added after reverse audit)
+
+[S] Method-quality distributions overlap across T-RO,IJRR,ICRA,RSS,RA-L,RAS,TIM and others.
+Therefore:
+- RAS/TIM/RA-L methods may already be T-RO-like on some dimensions;
+- T-RO methods need not exceed other venues on every dimension;
+- Venue labels are not perfect supervised-learning labels.
+
+Use actual papers to establish forms/ranges and readiness, not a title-to-venue classifier.
+
+======================================================================
+8. Repeated stable patterns
+======================================================================
+
+[S1] Innovation units are paper-level scientific deltas, not atomic-tool novelty.
+MPC,QP,DDP,ADMM,RL,tanks,sensitivities,Hertz and RNNs may be established; ask whether control roles,relations or capabilities change.
+
+[S2] Compare prior problems,mechanism roles and capabilities, not keywords alone.
+Prior sensitivity use does not automatically negate novelty; an unprecedented A+B+C combination does not prove it.
+
+[S3] Valid framing is part of publication.
+Real papers choose favorable truthful granularity: module → mechanism → relation → capability/framework.
+
+[S4] Framing cannot create absent scientific increments.
+Renaming,changing scenes/solvers cannot rescue a relation/mechanism/capability already covered by strongest prior.
+
+[S5] Complexity must align with problem,delta and claim scope.
+Aim for minimum sufficient professional complexity, neither maximum nor minimum complexity itself.
+
+[S6] Every major module should serve at least one role:
+Core Scientific Mechanism / Correctness-Stability-Safety Support / Real-time-Solver Support / Execution-Interface Support / Evidence Support。
+A major module unmapped to the paper-level claim risks overdesign.
+
+[S7] Simple repairs of deep bottlenecks can be stronger than large architectures.
+Pollayil,Lachner and Piedra illustrate this.
+
+[S8] Complexity raises evidence burden.
+Claims of necessary support layers need ablation,condition comparisons or failure analysis showing changed outcomes.
+
+[S9] Match theoretical depth to claim type.
+Stability/passivity needs analysis; robustness needs evidence/guarantees; real-time claims need timing/hardware; force RMSE does not establish clinical safety.
+
+[S10] Engineering closure is central to leading robotic-control papers.
+Optimizer outputs are not the endpoint: show executable control consequences.
+
+[S11] Contribution counts are not quality.
+Ask whether one causal chain summarizes the whole method.
+
+[S12] Judge venue last.
+Reconstruct delta,complexity,theory and evidence before venue alignment; do not choose IJRR first and add modules backwards.
+
+======================================================================
+9. Contribution framing: methods and red lines
+======================================================================
+
+9.1 Valid framing
+
+P1. Raise contribution granularity
+Weak: MPC + variable impedance + uncertainty + sensitivity
+Strong if truthful: future interaction uncertainty directly shapes executable feedback mechanics
+Equations/experiments must actually support that relation.
+
+P2. Assign mature tools new control roles
+Not first sensitivity use, but changing sensitivity from an analysis quantity to an online feedback-mechanics decision quantity.
+
+P3. Replace component lists with causal chains
+A supplies X; B establishes X→Y; C makes Y tractable in real time; D makes Y executable;
+The contribution is X→Y, not A+B+C+D.
+
+P4. Choose appropriate strongest-prior comparison axes
+Distinguish novelty prior,simpler method-fit competitors and same-venue exemplars.
+
+P5. Treat supporting modules as infrastructure
+Do not claim mature solvers,standard IK or supporting safety filters as separate innovations to increase counts.
+
+P6. State capability boundaries
+Beyond lower RMSE, specify changed real-time,uncertainty,guarantee or information-to-feedback capabilities, or performance leaps demonstrating mechanism differences.
+
+9.2 Red lines
+
+[R1] Claiming first work despite prior coverage of the same relation/capability.
+[R2] Disguising scene substitution as mechanism innovation.
+[R3] Treating a new solver name as scientific delta.
+[R4] Using uncombined A+B+C as the only novelty evidence.
+[R5] Comparing weak baselines instead of strongest prior/simpler competitors.
+[R6] Inflating innovation with complexity,proof/equation counts.
+[R7] Promoting all support modules into contributions and diluting the main delta.
+[R8] Narrative inflation: narrow evidence framed as a broad framework.
+[R9] Capability inflation: routine metric gains without changed boundaries.
+[R10] Cherry-picking prior work to manufacture gaps.
+
+======================================================================
+10. Complexity alignment: excessive versus insufficient methods
+======================================================================
+
+Condition complexity comparisons:
+C_match = Method Complexity conditioned on {Problem Size, Scientific Delta, Claim Scope, Evidence Budget}
+
+Prohibited:
+More than 4 modules means overdesign.
+One core equation is insufficient for a leading journal.
+Actual samples refute such rules.
+
+10.1 Three observed method forms
+
+Type F — Focused Method
+Examples: Pollayil,Lachner,Jin
+1 clear core mechanism with minimal support and aligned mathematics/experiments.
+
+Type M — Medium Integrated Method
+Examples: Li,Piedra,Reuss,Beber
+1 principal mechanism plus 1–3 direct supporting failure remedies, with theory/execution/experimental closure.
+
+Type S — System / Framework Method
+Examples: Wijayarathne,Fu,UFIC
+Multiple modules for multiconstraint,multiobjective/general-framework claims; each serves a necessary system function with expanded evidence.
+
+[S] F/M/S can all support leading journals. Mismatch occurs with F-scale problem/delta and S complexity, or S claims with F methods/theory/evidence.
+
+10.2 Overdesign Signals
+
+O1. New modules do not change paper-level relations/capabilities.
+O2. Overlapping robustness/safety layers lack evidence justifying combination.
+O3. Multiple solvers/decompositions add complexity when simple solving meets timing/constraints.
+O4. Certification exceeds claim needs without stronger publishable conclusions.
+O5. Secondary problems are invented to preserve complex modules.
+O6. Lengthy module explanations lack one coherent causal chain.
+O7. Ablating modules barely changes core outcomes.
+O8. More layers than matched leading-journal deltas without stronger capability/guarantees.
+O9. Complexity adds computational/implementation risks without proportional gains.
+O10. Support modules are incorrectly framed as separate innovations.
+
+10.3 Underdesign Signals
+
+U1. Online/predictive claims without real-time implementation.
+U2. Robustness claims with nominal simulation only.
+U3. Optimized impedance parameters never reach executable feedback.
+U4. Passivity/safety claims lack corresponding guarantees/evidence.
+U5. Soft-contact models do not close physically with target scenes.
+U6. Final scores without strongest-prior separation or mechanism evidence.
+U7. Broad uncertainty/safety/real-time/human problems with one-subproblem solutions.
+U8. Broad journal-level claims supported only by narrow validation.
+
+======================================================================
+11. Audit methods through pairwise comparisons, not scores
+======================================================================
+
+Do not output Innovation=8/10,Complexity=7/10,Theory=9/10.
+Such scores lack reference meaning.
+
+First select comparator sets:
+A. 1–3 strongest novelty priors
+B. 2–4 same-venue/nearby-field exemplars
+C. At least 1 simpler method-fit competitor
+
+Report dimensionwise:
+Dimension | Current Method | Comparator A | Comparator B | Distribution Position | Meaning
+
+Preferred distribution positions:
+BELOW
+ALIGNED
+ABOVE-BUT-JUSTIFIED
+ABOVE-BUT-UNJUSTIFIED
+DIFFERENT-MORPHOLOGY
+
+Answer:
+Q1 Problem: where does it lie relative to real target-venue examples?
+Q2 Delta: below,near or above comparable papers against strongest prior?
+Q3 Packaging: strongest truthful granularity, or support mislabeled as innovation?
+Q4 Complexity: lighter,aligned or heavier for matched problem/delta? What does added complexity buy?
+Q5 Necessity: can a Pollayil/Piedra-style direct alternative suffice?
+Q6 Theory: missing closure or excess proofs without publication value?
+Q7 Engineering: model→decision→controller→robot closure comparable to real online work?
+Q8 Evidence: does it defend the framed contribution, with corresponding ablations?
+
+Final output includes:
+A. Current position: nearest 2–4 published methods and reasons.
+B. Venue-aligned dimensions.
+C. Below-distribution gaps.
+D. Above-distribution/unjustified-complexity risks.
+E. Fragmented,low-granularity or inflated framing.
+F. Minimal convergence: needed additions,deletions,mergers,support demotions and main-delta refinement.
+G. Venue fit last: ICRA/RSS-like,T-RO-like,IJRR-like or below target, grounded in explicit pairs.
+
+
+---------------------------------------------------------------------
+11.1 Comparator-selection protocol (mandatory selection; added after reverse audit)
+---------------------------------------------------------------------
+
+Do not choose comparators to make the method look strong. Follow:
+
+A. Strongest novelty prior (1–3 papers)
+   Closest input-information→mechanism/decision→output-capability relations most likely to compress novelty.
+   Adversarial selection: dangerous rather than friendly prior work.
+
+B. Same-problem alternative (at least 1)
+   Different methods addressing the same cause to test necessity.
+
+C. Simpler method-fit competitor (at least 1)
+   Simpler structure solving much of the same problem, testing overdesign/necessity.
+
+D. Same-venue morphology exemplars (2–4)
+   Closest problem/claim forms, not arbitrary famous papers.
+
+E. Paired-lineage comparator (include when available)
+   conference→journal / early→mature version。
+
+Explain why each is a comparator; titles alone are insufficient.
+
+[R] Weak-only or different-route-only prior selection is cherry-picking.
+
+---------------------------------------------------------------------
+11.2 Fatal-veto/indeterminate logic (added after reverse audit)
+---------------------------------------------------------------------
+
+These are evidence/veto conditions, not mechanical scores:
+
+VETO-N1 Novelty Veto：
+If prior work covers the same problem–mechanism-role–capability and differences are mainly scene,solver,parameterization or narrative, leading-venue delta is not established.
+
+VETO-N2 Closure Veto：
+Unclosed mathematics/physics,inconsistent variables or nonexecutable control preclude readiness regardless of framing.
+
+VETO-N3 Evidence Veto：
+Missing direct theory/experiments for core capabilities cannot be replaced by auxiliary metrics.
+
+VETO-N4 Complexity veto (soft):
+ABOVE-BUT-UNJUSTIFIED complexity with timing/implementation risk needs refinement first; complexity cannot compensate for professionalism.
+
+INDETERMINATE：
+Insufficient strongest-prior,full-text,experimental or equation evidence requires INDETERMINATE/PROVISIONAL, not guessed alignment.
+
+---------------------------------------------------------------------
+11.3 Claim–evidence matrix (added after reverse audit)
+---------------------------------------------------------------------
+
+Every paper-level claim needs direct evidence:
+
+Claim | Required Evidence | Actual Evidence | Strength | Missing Gap
+
+Examples:
+- Preview changes impedance decisions → preview/no-preview ablation,gain trajectories,task outcomes;
+- “robust to persistent parameter mismatch” → parameter-held-across-horizon tests / worst-case comparison；
+- “real-time” → worst-case/percentile timing + deadline behavior；
+- Passive/safe → matching theoretical conditions and energy/safety experiments;
+- System workload reduction → user studies,not force RMSE.
+
+[S] Direct evidence limits contribution framing.
+
+---------------------------------------------------------------------
+11.4 Reverse validation of this reference itself
+---------------------------------------------------------------------
+
+After major revisions perform at least four test types:
+
+T1 Leave-One-Out Positive Test
+Temporarily remove one core leading-journal paper and assess it using remaining distributions.
+
+T2 Out-of-Sample Positive Test
+Use recent unseen T-RO/IJRR/ICRA/RSS papers to test morphology recognition.
+
+T3 Boundary Probe
+Use strong RAS/TIM/RA-L/T-Mech or prejournal versions to test automatic overpromotion.
+Actual venue is not absolute truth; identify missing delta,generality,theory/evidence relative to leading journals.
+
+T4 Counterfactual Perturbation Test
+Counterfactually remove theory/evidence/execution or add unrelated complexity; assessments should weaken or flag overdesign.
+
+[R] A reference that only explains known acceptances but cannot reject near-miss,mutilated or overdesigned variants is retrospective storytelling.
+
+======================================================================
+12. Codex behavior constraints against drift
+======================================================================
+
+C1. Read actual papers before applying patterns; do not review mechanically from this file alone.
+C2. Prioritize [S]; [V] denotes empirical centers; do not generalize [E].
+C3. One complex IJRR paper does not justify added complexity.
+C4. One simple IJRR paper does not justify deleting support.
+C5. Condition complexity on problem/delta/claims.
+C6. Reconstruct strongest prior for every novelty judgment.
+C7. Framing is legitimate/necessary but needs prior/evidence checks.
+C8. Explain whether deletions preserve claims,correctness and execution.
+C9. Explain the actual gap addressed by additions and required depth.
+C10. Do not add modules merely to seem advanced.
+C11. Titles/contribution lists do not replace equation-level understanding.
+C12. Venue alignment is empirical comparison,not template imitation.
+C13. Use adversarial protocol 11.1 rather than favorable samples.
+C14. Separate author statements from independently reconstructed deltas.
+C15. Missing prior/full text/evidence means INDETERMINATE,not guessing.
+C16. Build claim–evidence mappings for each main claim.
+C17. Prioritize lineage evidence for upgrades,not star-paper thresholds.
+
+======================================================================
+13. One-page final empirical reference
+======================================================================
+
+General principle
+Leading methods are not defined by required algorithms/module counts, but:
+Within actual same-field publication distributions,
+problem,delta,framing,complexity,theory,engineering and evidence must align with each other and comparable target-venue work.
+
+Novelty
+1. Recover strongest prior;
+2. Identify genuine paper-level delta;
+3. Compare delta scale/type with published neighboring leading work;
+4. Frame true increments at mechanism/relation/capability/framework level where justified;
+5. Framing cannot invent novelty;
+6. Existing tools do not imply existing paper-level relations;
+7. Unprecedented exact combinations do not prove novelty.
+
+Overdesign
+1. Do not count modules absolutely;
+2. Align complexity with problem,delta and scope;
+3. More complexity than comparable deltas without capability/guarantees risks overdesign;
+4. Broader claims can justify complexity with expanded evidence;
+5. Simpler remedies increase the burden to justify elaborate architectures;
+6. Complex methods require more ablation/evidence.
+
+Key counterexamples from real samples
+- Pollayil T-RO: focused,simple methods can qualify.
+- Wijayarathne T-RO: complex solving fits complex force–motion/contact tasks.
+- Li T-RO: multiple components address necessary failures of one capability.
+- Fu T-RO: broad system claims justify complexity/multidimensional evidence.
+- Lachner IJRR: one foundational correction; depth is not complexity.
+- UFIC IJRR: extensive theory still avoids impractical unification.
+- Piedra IJRR: direct architectural remedies may beat elaborate alternatives.
+- Beber ICRA: a conference paper can already contain a complete QP + estimation + passivity chain; module count cannot distinguish venues.
+
+Final review question
+Place the method anonymously among these papers:
+Which dimensions differ from actual T-RO/IJRR/ICRA/RSS work?
+Insufficient delta,incorrect framing,complexity mismatch,incomplete theory,missing execution or weak evidence?
+
+Answering this concretely demonstrates understanding of leading-venue methods.
+
+======================================================================
+14. Reference Notes
+======================================================================
+
+1. Wijayarathne et al., T-RO 2023, DOI 10.1109/TRO.2023.3286070
+2. Pollayil et al., T-RO 2023, DOI 10.1109/TRO.2022.3216078
+3. Li et al., T-RO 2025, DOI 10.1109/TRO.2025.3530345
+4. Fu et al., T-RO 2025, DOI 10.1109/TRO.2025.3548493
+5. Haddadin & Shahriari, IJRR 2024, DOI 10.1177/02783649241249194
+6. Lachner et al., IJRR, DOI 10.1177/02783649251393332
+7. Piedra et al., IJRR 2026, DOI 10.1177/02783649261441635
+8. Xue et al., IJRR, DOI 10.1177/02783649251344638
+9. Jin et al., ICRA 2022, DOI 10.1109/ICRA46639.2022.9812210
+10. Beber et al., ICRA 2024, DOI 10.1109/ICRA57147.2024.10610167
+11. Reuss et al., RSS 2022, DOI 10.15607/RSS.2022.XVIII.066
+
+Boundary comparators：
+12. Hammoud et al., RA-L 2021, DOI 10.1109/LRA.2021.3068951
+13. Roveda et al., Artificial Intelligence 2022, DOI 10.1016/j.artint.2022.103771
+14. Haninger et al., RAS 2023, DOI 10.1016/j.robot.2023.104431
+15. Jin et al., T-Mech 2023, DOI 10.1109/TMECH.2022.3204350
+16. Fu et al., TIM 2024, DOI 10.1109/TIM.2024.3372209
+17. Xue et al., RAS 2025, DOI 10.1016/j.robot.2025.104961
+18. Duan et al., T-Mech 2025, DOI 10.1109/TMECH.2025.3583041
+
+======================================================================
+15. Scope Limitation
+======================================================================
+
+This is a nearby-field qualitative empirical distribution,not a universal robotics law or large-sample probabilistic model with confidence intervals.
+Current T-RO/IJRR samples support some high-confidence [S] patterns,not mechanical numerical thresholds per venue; ICRA/RSS especially need more samples.
+
+Future expansion must:
+1. Prioritize continuous contact,impedance,force regulation and medical contact;
+2. Update distributions rather than prove predetermined conclusions;
+3. Revise stable patterns contradicted by new samples;
+4. Avoid distant-domain complexity thresholds;
+5. Keep qualitative paired comparisons unless real sample statistics justify hard thresholds.
+
+
+======================================================================
+16. v1.1 Reverse-Audit Validation Summary（2026-09-07）
+======================================================================
+
+This reverse audit used:
+- out-of-sample positive papers；
+- paired conference/specialized-journal → top-journal comparisons；
+- boundary probes；
+- counterfactual deletion/addition tests。
+
+Out-of-sample positives (outside the v1.0 core corpus):
+A. Geiger et al., Diffusion-Based Impedance Learning for Contact-Rich Manipulation Tasks, T-RO 2026.
+   Important contact gap,clear learning→energy-domain impedance relation,medium complexity,real-time torque and unseen-task generalization → T-RO-like,consistent with publication.
+
+B. Bilaloglu et al., Tactile Ergodic Coverage on Curved Surfaces, T-RO 2025.
+   Focused nontrivial continuous-contact planning/control,formulation and robot closure → focused T-RO-like form,consistent with publication.
+
+C. Kurtz et al., Inverse Dynamics Trajectory Optimization for Contact-Implicit MPC, IJRR 2026.
+   The paper states a surprisingly simple method with incremental innovations enabling real-time CI-MPC and broad manipulation/locomotion. Classify as simple-but-general IJRR,not downgrade simplicity; consistent with venue.
+
+D. Jankowski et al., Robust Pushing..., IJRR 2025.
+   Quasistatic belief propagation,variance-constrained optimization,contact-informed sampling and long-horizon bimanual pushing/MPC → narrow-domain but deep/general uncertainty mechanism with strong evidence,compatible with IJRR.
+
+Boundary probe：
+E. Xue et al., RAS 2025 MPVIC。
+   Estimation,MPC/VIC,passivity and hardware already provide strong professional completeness. Loose v1.0 comparator selection risked effortless T-RO-like labeling.
+   This does not simply rank RAS below T-RO; it reveals the need for adversarial prior reconstruction and separation of engineering completeness from paper-level delta. Hence 11.1/11.2 were added.
+
+Paired boundary：
+F. Fu TIM 2024 → Fu T-RO 2025: medical QP-VIC/tanks expand to shared control,whole-system passivity and workload/system evidence; scope/evidence upgrade is captured.
+G. Angelini IROS 2019 → Pollayil T-RO 2023: captures generality,mathematical closure and evidence breadth,not algorithm counts.
+
+Counterfactual tests：
+H. Adding irrelevant tube/generator/certification layers to Pollayil should trigger O1/O4/O8: ABOVE-BUT-UNJUSTIFIED.
+I. Removing Piedra's dynamic head-to-head/imaging evidence should lower IJRR readiness under D8/U6/U8.
+J. Retaining Fu's broad system claims without passivity/user evidence creates claim–evidence mismatch below the published morphology.
+
+Audit conclusion：
+v1.0 correctly learned forms but retained comparator cherry-picking,venue overlap,author anchoring and missing veto/indeterminate risks.
+v1.1 addresses these with paired calibration,adversarial selection,dual contribution reconstruction,veto logic,claim–evidence mapping and reverse validation.
+
+Historical status (superseded by later confirmed long-term requirements; not current instructions):
+Originally proposed as R15's main method-audit reference; now historical samples/experience only. Follow current confirmed requirements,original sources and actual evidence. Fixed counts,all-comparators-first sequencing and uniform thresholds here are not reinstated as mandatory workflows.
+
+END

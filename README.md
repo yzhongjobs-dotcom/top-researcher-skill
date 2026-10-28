@@ -10,7 +10,7 @@
 
 规则从参考资料中提炼，每条规则应能回查到实例；参考资料发现规则不对或不完整时，回头修改规则。
 
-> 现状（2026-10-28）：规则层由原项目的科研流程迁入，仍以个人理解为主；新一轮逆向分析尚未开始，计划见 [PLAN.md](PLAN.md)。
+> 现状（2026-10-28）：规则层（本文件与 workflow/）已与用户讨论形成，基本正确，但来自个人理解，缺少真实顶刊的支撑。新一轮逆向分析正在补参考层 `references/stages/`，按阶段写出顶刊实际怎么做、作者怎样决定、普通论文差在哪里，再据此细化规则层。计划见 [PLAN.md](PLAN.md)。
 
 ## 一、目标与判断依据
 
@@ -69,10 +69,10 @@
 | 位置 | 内容 |
 |---|---|
 | [workflow/](workflow/) | 五个阶段文件：01 现状、02 问题、03 方法（含快速验证与迭代）、04 实验、05 写作 |
-| [references/papers/](references/papers/) | 纵向：每篇论文一个文件，全文逻辑链与关键决策点 |
-| [references/sections/](references/sections/) | 横向：每个 section 一个文件，怎样写才达到顶会顶刊标准 |
-| [references/topics/](references/topics/) | 横向：跨 section 专题（选对照、构造两难、贡献层次、理论位置等） |
-| [references/lineages/](references/lineages/) | 同一课题组的论文序列与研究路线演进 |
+| [references/stages/](references/stages/) | 与 workflow/ 一一对应：顶刊在每个阶段的实际做法、作者怎样决定、普通论文差在哪里、锚点论文 |
+| [references/papers/](references/papers/) | 单篇画像：全文逻辑链、各阶段做法、关键决策点 |
+| [references/comparisons/](references/comparisons/) | 两两对比：同一研究线前后版本、顶刊与非顶刊、同刊不同形态 |
+| [references/prior_standards/](references/prior_standards/) | 已有标准（2026-09-07 方法标尺 v1.1、2026-10-18 可执行标准），作为素材吸收 |
 | [references/anti_patterns.md](references/anti_patterns.md) | 通用反例 |
 | [references/examples/](references/examples/) | 首轮逆向分析（阶段文件中例子的出处）和仿真/实验设置的逆向分析 |
 | [sources/](sources/README.md) | 样本清单与新下载的论文 |
