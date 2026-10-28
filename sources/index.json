@@ -275,10 +275,24 @@
   ]
  },
  {
+  "sha256": "6a4a54725ff3dc0a412d67d9880cc81bd2c194c7ac6d503c6456410f4af8b079",
+  "filename": "Automatic_force-compliant_robotic_ultrasound_screening_of_abdominal_aortic_aneurysms.pdf",
+  "paths": [
+   "D:\\桌面\\科研经验总结\\sources\\pdfs\\Automatic_force-compliant_robotic_ultrasound_screening_of_abdominal_aortic_aneurysms.pdf"
+  ]
+ },
+ {
   "sha256": "2824b665fdfe957c6dbc92d3aaa4cf99761fed68be77638ba03752ecf43ac5f2",
   "filename": "Bioinspired trajectory modulation for effective slip control in robot manipulation.pdf",
   "paths": [
    "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-mpvic\\Bioinspired trajectory modulation for effective slip control in robot manipulation.pdf"
+  ]
+ },
+ {
+  "sha256": "e1ea3a1093d7023b8aac87221dcd5176ddfbb41f71a09957cff865f988f49693",
+  "filename": "Biomimetic_motor_behavior_for_simultaneous_adaptation_of_force_impedance_and_trajectory_in_interaction_tasks.pdf",
+  "paths": [
+   "D:\\桌面\\科研经验总结\\sources\\pdfs\\Biomimetic_motor_behavior_for_simultaneous_adaptation_of_force_impedance_and_trajectory_in_interaction_tasks.pdf"
   ]
  },
  {
@@ -348,6 +362,13 @@
   ]
  },
  {
+  "sha256": "67927461aa6886d0d8eaa249a54e03d5b6751d63735e6c30100f5394b27b3744",
+  "filename": "Continuous_Role_Adaptation_for_HumanRobot_Shared_Control.pdf",
+  "paths": [
+   "D:\\桌面\\科研经验总结\\sources\\pdfs\\Continuous_Role_Adaptation_for_HumanRobot_Shared_Control.pdf"
+  ]
+ },
+ {
   "sha256": "72d6e3d0dc8dcad78d1ef7db68b795c5f77e5e019cb176185819de0da562246e",
   "filename": "Deflection-Domain_Passivity_Control_of_Variable_Stiffnesses_Based_on_Potential_Energy_Reference.pdf",
   "paths": [
@@ -376,6 +397,13 @@
    "venue": "IEEE Robotics and Automation Letters",
    "citations_at_retrieval": 121
   }
+ },
+ {
+  "sha256": "9182875d8a33de9ff34f516b6fc3033d70bfb0f1b00a5d5c80344156e0a545c6",
+  "filename": "Differential game theory for versatile physical interaction.pdf",
+  "paths": [
+   "D:\\桌面\\科研经验总结\\sources\\pdfs\\Differential game theory for versatile physical interaction.pdf"
+  ]
  },
  {
   "sha256": "aae85fd1a19e07fb4f159048e91497d6765f92389917774f27083c8ac33e640d",
@@ -527,6 +555,13 @@
   ]
  },
  {
+  "sha256": "fc0d67aab6bc168f959c606519ff00efc6fcc6abfa24eae5bb55c6e30201f7ed",
+  "filename": "Force_Impedance_and_Trajectory_Learning_for_Contact_Tooling_and_Haptic_Identification.pdf",
+  "paths": [
+   "D:\\桌面\\科研经验总结\\sources\\pdfs\\Force_Impedance_and_Trajectory_Learning_for_Contact_Tooling_and_Haptic_Identification.pdf"
+  ]
+ },
+ {
   "sha256": "bcebdd2cccc8966c47e20588c708c24078c8eb237ff3a77765911002b830c772",
   "filename": "Force_tracking_impedance_control_of_robot_manipulators_under_unknown_environment.pdf",
   "paths": [
@@ -559,7 +594,8 @@
   "sha256": "1d201d6a86ddee3c87944d4b759229640a178392f5754bc05a5c76569369bfbd",
   "filename": "G15.pdf",
   "paths": [
-   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G15.pdf"
+   "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\G15.pdf",
+   "D:\\桌面\\科研经验总结\\sources\\pdfs\\Neural_Networks_Enhanced_Optimal_Admittance_Control_of_RobotEnvironment_Interaction_Using_Reinforcement_Learning.pdf"
   ]
  },
  {
@@ -1062,6 +1098,13 @@
   "paths": [
    "D:\\桌面\\科研Agent Harness设计\\impedance-control-e2e\\source-materials\\user-batch-environment-model\\Modeling_of_Viscoelastic_Contacts_and_Evolution_of_Limit_Surface_for_Robotic_Contact_Interface.pdf",
    "E:\\github_project\\scan-impedance-update\\literature\\papers\\field_supplements\\F05.pdf"
+  ]
+ },
+ {
+  "sha256": "971b3d2887e21ee1ac921f8cbb36c1a647a350bfb52f49490483e33e3e71cc8c",
+  "filename": "Motion-Aware_Robotic_3D_Ultrasound.pdf",
+  "paths": [
+   "D:\\桌面\\科研经验总结\\sources\\pdfs\\Motion-Aware_Robotic_3D_Ultrasound.pdf"
   ]
  },
  {

@@ -18,12 +18,12 @@
 
 | 来源 | 论文 |
 |---|---|
-| 课题组序列（Burdet / Yang / Li） | Ganesh ICRA2010*（需下载）→ Yang T-RO2011（R11）→ Li & Ge TCST2014 → Ge 等 IJC2014 → Li T-RO2015* → Li T-RO2018* → Yang TMECH2018（R01）→ Yang 等 TCYB2019* → Li NMI2019* → Xing T-RO2023（R12） |
+| 课题组序列（Burdet / Yang / Li） | Ganesh ICRA2010*（需下载）→ Yang T-RO2011（R11）→ Li & Ge TCST2014 → Ge 等 IJC2014 → Li T-RO2015* → Li T-RO2018* → Yang TMECH2018（R01）→ Peng/Yang 等 NN 增强最优导纳（RL）* → Li NMI2019* → Xing T-RO2023（R12） |
 | 高引经典 | Kang TMECH2009、Buerger & Hogan T-RO2007、Ficuciello T-RO2015、Kronander & Billard RA-L2016、Buchli RSS2010 / IJRR2011、Jung TCST2004、He 等 TSMC2016、Luo ICRA2019、Gribovskaya ICRA2011 |
 | 近年强论文 | Jin TMECH2023、Li T-RO2025、Hammoud RA-L2021、Dyck RA-L2022、Haninger RAS2023、R13 T-RO2023、Xue IMA、Geiger T-RO2026、Reuss RSS2022 |
-| 应用型序列（TUM 机器人超声）* | Virga IROS2016 → Jiang RA-L2020 → Jiang ICRA2021 → Jiang MedIA2023 综述 |
+| 应用型序列（TUM 机器人超声）* | Virga IROS2016 → Jiang ICRA2021（Jiang RA-L2020、MedIA2023 综述未下载，缺失不影响开始） |
 
-带 * 的需要用户下载到 [sources/pdfs/](sources/pdfs/)。
+带 * 的已由用户下载到 [sources/pdfs/](sources/pdfs/)（2026-10-28，7 篇）。
 
 **对照样本，约 4 篇**：同主题普通期刊或写法较弱的论文，如 Cao IEEE Access 2019（动态自适应混合阻抗）、R22 TSMC2017 等。
 
