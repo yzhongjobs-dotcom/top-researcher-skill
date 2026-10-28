@@ -2,7 +2,7 @@
 
 **何时读：** 开始一个新研究问题，或者需要更新现状、核对最接近的工作时。
 
-例子只用于说明，不是必须照做的规定；合适就用，不合适就回到判断标准。例子出处见[首轮逆向分析](../references/legacy/reverse_analysis_round1-2.md)：R 编号见 §2–3，Buchli、Kang、Xue、Dyck、Jin、Fu 和 R22 见 §7；新一轮逐篇与按 section 的分析见[参考资料](../references/README.md)。通用反例见[anti_patterns](../references/anti_patterns.md)。
+例子只用于说明，不是必须照做的规定；合适就用，不合适就回到判断标准。例子出处见[首轮逆向分析](../references/examples/first_round_reverse_analysis.md)：R 编号见 §2–3，Buchli、Kang、Xue、Dyck、Jin、Fu 和 R22 见 §7；新一轮逐篇与按 section 的分析见[参考资料](../references/README.md)。通用反例见[anti_patterns](../references/anti_patterns.md)。
 
 **核心目的：** 根据研究问题，把本领域的研究现状调研清楚，准确定位前沿。这张“前沿地图”是后面找问题和设计方法的依据。
 

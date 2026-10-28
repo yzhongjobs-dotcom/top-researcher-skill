@@ -51,7 +51,7 @@
 
 **论文包装是研究工作的重要部分。** 把真实调整组织成清楚、有说服力的能力与贡献，准确说明其重要性，并安排对应证据。问题—方法—证据的叙述可在研究中共同打磨；呈现中说不清的地方，应反馈到设计和验证。贡献表述的强度与实际工作和证据对应。
 
-具体参照见[首轮逆向分析 §2–4](references/legacy/reverse_analysis_round1-2.md)：R01 的共同相位小扩展、R13 的受约束表示、R12 的目标动力学分工、R11 的正向迁移、R19 的简洁残差结构、R21 的物理—可执行集合。例子用于理解尺度，不规定必选形式。
+具体参照见[首轮逆向分析 §2–4](references/examples/first_round_reverse_analysis.md)：R01 的共同相位小扩展、R13 的受约束表示、R12 的目标动力学分工、R11 的正向迁移、R19 的简洁残差结构、R21 的物理—可执行集合。例子用于理解尺度，不规定必选形式。
 
 ## 四、执行原则与防止重犯
 
@@ -74,6 +74,6 @@
 | [references/topics/](references/topics/) | 横向：跨 section 专题（选对照、构造两难、贡献层次、理论位置等） |
 | [references/lineages/](references/lineages/) | 同一课题组的论文序列与研究路线演进 |
 | [references/anti_patterns.md](references/anti_patterns.md) | 通用反例 |
-| [references/legacy/](references/legacy/) | 迁入的首轮逆向分析与旧参考，待拆分进上面各目录 |
+| [references/examples/](references/examples/) | 首轮逆向分析（阶段文件中例子的出处）和仿真/实验设置的逆向分析 |
 | [sources/](sources/README.md) | 样本清单与新下载的论文 |
 | [evals/](evals/README.md) | 检验 agent 是否达到水平的任务与结果 |

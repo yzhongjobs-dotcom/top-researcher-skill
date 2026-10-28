@@ -2,7 +2,7 @@
 
 **何时读：** 设计正式实验、选择对比方法、整理实验结论时。
 
-例子只用于说明，不是必须照做的规定；合适就用，不合适就回到判断标准。例子出处见[首轮逆向分析](../references/legacy/reverse_analysis_round1-2.md)：R 编号见 §2–3，Buchli、Kang、Xue、Dyck、Jin、Fu 和 R22 见 §7；新一轮逐篇与按 section 的分析见[参考资料](../references/README.md)。通用反例见[anti_patterns](../references/anti_patterns.md)。
+例子只用于说明，不是必须照做的规定；合适就用，不合适就回到判断标准。例子出处见[首轮逆向分析](../references/examples/first_round_reverse_analysis.md)：R 编号见 §2–3，Buchli、Kang、Xue、Dyck、Jin、Fu 和 R22 见 §7；新一轮逐篇与按 section 的分析见[参考资料](../references/README.md)。通用反例见[anti_patterns](../references/anti_patterns.md)。
 
 **核心目的：** 用实验证明四件事：
 - 方法解决了所提问题；
@@ -31,6 +31,8 @@
 7. **报告计算时间，** 并说明计时包含哪些环节。
 8. **结论如实。** 每个结论对应一项主张，同时写出代价；不加多批重复测试之类的特殊做法。
 9. **后续做真机实验，** 证明方法在真实的噪声、延迟和执行条件下仍然有效。
+
+**设计仿真任务和对照时**，读[仿真与实验设置的逆向分析](../references/examples/simulation_setup_reverse_analysis.md) §1–6：顶刊怎样从主张推出场景、怎样设置固定参数与其他对照、用什么指标和量级、仿真与实物怎样分工。§7 是原项目的具体应用，可跳过。
 
 **可借鉴的做法：**
 - **两难问题：** 主要对比站在另一边的方法，并同时测两边。R12 就同时测了误差和人的施力。

@@ -2,7 +2,7 @@
 
 **何时读：** 问题选定后设计或改造方法时，或者快速验证结果不理想、需要判断下一步时。
 
-例子只用于说明，不是必须照做的规定；合适就用，不合适就回到判断标准。例子出处见[首轮逆向分析](../references/legacy/reverse_analysis_round1-2.md)：R 编号见 §2–3，Buchli、Kang、Xue、Dyck、Jin、Fu 和 R22 见 §7；新一轮逐篇与按 section 的分析见[参考资料](../references/README.md)。通用反例见[anti_patterns](../references/anti_patterns.md)。
+例子只用于说明，不是必须照做的规定；合适就用，不合适就回到判断标准。例子出处见[首轮逆向分析](../references/examples/first_round_reverse_analysis.md)：R 编号见 §2–3，Buchli、Kang、Xue、Dyck、Jin、Fu 和 R22 见 §7；新一轮逐篇与按 section 的分析见[参考资料](../references/README.md)。通用反例见[anti_patterns](../references/anti_patterns.md)。
 
 **核心目的：** 设计或改造出一套方法，要做到三点：
 - 准确解决选定的问题；

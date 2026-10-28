@@ -18,7 +18,7 @@
 | [topics/](topics/) | 横向：跨 section 专题 | 待开始 |
 | [lineages/](lineages/) | 课题组论文序列 | 待开始 |
 | [anti_patterns.md](anti_patterns.md) | 通用反例 | 已迁入 |
-| [legacy/](legacy/) | 首轮逆向分析（英文）、仿真设置逆向分析、两份旧参考；链接仍指向原项目仓库，待拆分进上面各目录 | 已迁入 |
+| [examples/](examples/) | 首轮逆向分析（阶段文件例子出处）、仿真/实验设置逆向分析 | 已迁入，新一轮分析完成后按模板补充或替换 |
 
 ## 纵向模板：`papers/<编号>_<短名>.md`
 

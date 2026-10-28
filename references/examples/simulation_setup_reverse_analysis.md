@@ -1,5 +1,7 @@
 # Reverse analysis of simulation and experiment setups (2026-10-21)
 
+> **给 agent 的读法：** §1–6 是通用的实验设置规律，§7 是原项目的具体应用，可跳过。文中路径指向原项目仓库。
+
 Purpose: work out, from how top papers set up their experiments, how this
 project should set up its simulation tasks and baselines, so that the task fits
 the research question, every baseline is reasonable and documented, and the

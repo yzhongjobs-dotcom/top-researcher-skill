@@ -2,7 +2,7 @@
 
 **何时读：** 写摘要、引言、方法、实验章节或贡献陈述时。方法设计阶段就开始写。
 
-例子只用于说明，不是必须照做的规定；合适就用，不合适就回到判断标准。例子出处见[首轮逆向分析](../references/legacy/reverse_analysis_round1-2.md)：R 编号见 §2–3，Buchli、Kang、Xue、Dyck、Jin、Fu 和 R22 见 §7；新一轮逐篇与按 section 的分析见[参考资料](../references/README.md)。通用反例见[anti_patterns](../references/anti_patterns.md)。
+例子只用于说明，不是必须照做的规定；合适就用，不合适就回到判断标准。例子出处见[首轮逆向分析](../references/examples/first_round_reverse_analysis.md)：R 编号见 §2–3，Buchli、Kang、Xue、Dyck、Jin、Fu 和 R22 见 §7；新一轮逐篇与按 section 的分析见[参考资料](../references/README.md)。通用反例见[anti_patterns](../references/anti_patterns.md)。
 
 **核心目的：** 学会包装。方法是组合的、增量小都没关系，关键是让审稿人理解三点：
 - 研究问题非常必要；

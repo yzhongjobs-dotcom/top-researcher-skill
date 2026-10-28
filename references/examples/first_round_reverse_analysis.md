@@ -1,5 +1,7 @@
 # Understanding method design, improvement scale and contribution presentation through specific papers
 
+> **给 agent 的读法：** 本文件是首轮逆向分析，供阶段文件中的例子核对出处。§2–3 是 R 编号案例，§4 是贡献尺度的总结，§7 是第二轮（Buchli、Kang、Xue、Dyck、Jin、Fu、R22）。§5–6 是与原项目的对照，可跳过。文中相对链接指向原项目仓库（`yzhongjobs-dotcom/pre-nnbo-neoc`），在本文件夹内失效；R 编号论文原文在 `D:\桌面\正文writing skill\文献资料`。
+
 2026-10-19. At the user's request, this analysis returns to original papers, understanding each paper first and only then comparing project failures. Sections 1–4 analyze papers independently; Section 5 connects them to the project. This report reconstructs publicly presented arguments, does not infer the authors' actual order of discovery, and does not infer that all equations are correct from publication status.
 
 ## 1. Reading scope and analyzed materials
