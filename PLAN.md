@@ -100,9 +100,9 @@
 |---|---|---|---|
 | P0 | 建框架、迁入通用内容、确定样本、恢复已有标准 | — | 已完成（2026-10-28） |
 | P1 | 试点：R13 T-RO2023（理论/方法型）、Dyck RA-L2022（应用/问题驱动型）两篇单篇画像，加上 Jin ICRA2022 → TMECH2023 一组对比。只做逆向分析本身，用来确定模板和深度；`stages/` 的汇总留到 P3 | 交用户审阅；**用户认可后再进入 P2** | 已完成（2026-10-29）：用户授权 Claude 自行验收；结果见下文"P1 试点结果"；"文字逐段拆解"一项已按用户纠正撤销 |
-| P2 | 批量单篇画像与两两对比：Codex 读按页标注的提取文本（放在 `sources/text/`，不纳入 Git）做第一遍，Claude 对照 PDF 原页核对 | 用户已授权自行推进（2026-10-29） | 第一轮完成（2026-10-29）：Codex 暂停，由 Claude 精读约 30 篇（理论/方法型与应用型；T-RO、IJRR、RSS、RA-L、ICRA、TMECH、NMI、控制理论期刊），20 份短画像在 `references/papers/`。Pollayil、Wijayarathne、Fu TIM/T-RO、Beber 已读原文、在 stages 中直接引用页码；2026-10-29 Codex 起草、Claude 抽查后补齐画像；检验后纳入 K16（Kronander T-RO2016），共 26 份画像 |
+| P2 | 批量单篇画像与两两对比：Codex 读按页标注的提取文本（放在 `sources/text/`，不纳入 Git）做第一遍，Claude 对照 PDF 原页核对 | 用户已授权自行推进（2026-10-29） | 第一轮完成（2026-10-29）：Codex 暂停，由 Claude 精读约 30 篇（理论/方法型与应用型；T-RO、IJRR、RSS、RA-L、ICRA、TMECH、NMI、控制理论期刊），20 份短画像在 `references/papers/`。Pollayil、Wijayarathne、Fu TIM/T-RO、Beber 已读原文、在 stages 中直接引用页码；2026-10-29 Codex 起草、Claude 对照按页文本核对并压缩为短画像；检验后纳入 K16（Kronander T-RO2016），共 26 份画像。K16 的单篇观察已在其他样本中查证：两条成为共性（解释条件或界的含义；挑战对手所依赖的条件），两条撤回 |
 | P3 | 汇总成 `stages/01–05`，标出各类型的锚点论文 | 用户审阅 | 第三版完成（2026-10-29），待用户审阅：按"顶级研究者 skill"的目标，每个阶段以"怎么做"（顶刊研究者的做法与招式）为主体，标准（底线 / 加分）作为尺子，诊断表与升级样板用于自检与改进；`stages/README.md` 写两种用法（做研究、评判和优化）与跨阶段闭环；自测见 `evals/2026-10-29_stages_self_check.md`。（2026-10-29）留出检验后只并入逆向分析所得：引用更正、K16 的新例证；只有 K16 支持的做法标为"单篇观察"。曾按 Codex 意见加入的选题下注、撞车处理、失败分诊等开放的研究决策，已按用户纠正撤回 |
-| P4 | 按 `stages/` 细化 workflow/ 各阶段：补上具体做法和判断，链接到参考层 | 修改前给用户看 | — |
+| P4 | 按 `stages/` 细化 workflow/ 各阶段：补上具体做法和判断，链接到参考层 | 修改前给用户看 | 建议稿已写好，待用户审定（[P4_规则层修改建议.md](P4_规则层修改建议.md)）；workflow/ 未改 |
 | P5 | 轻量检验：一篇留出论文加一个真实 idea（见 [evals/](evals/README.md)），按差距回补 | 用户评判 | 留出论文部分完成（2026-10-29）：Codex 盲测从零设计（K16）、隐去出处评判 5 篇、对抗式审查 19 条；结果与修订见 [evals/2026-10-29_holdout_test.md](evals/2026-10-29_holdout_test.md)。真实 idea 的检验待用户安排 |
 | P6 | 打包为可安装的 skill：入口改为带 frontmatter 的 `SKILL.md`，只含 README、workflow、references；`sources/`、`evals/`、PLAN 不随 skill 分发 | 用户决定 | — |
 
