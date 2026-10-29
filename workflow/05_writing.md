@@ -2,7 +2,7 @@
 
 **何时读：** 写摘要、引言、方法、实验章节或贡献陈述时。方法设计阶段就开始写。
 
-例子只用于说明，不是必须照做的规定；合适就用，不合适就回到判断标准。例子出处见[首轮逆向分析](../references/examples/first_round_reverse_analysis.md)：R 编号见 §2–3，Buchli、Kang、Xue、Dyck、Jin、Fu 和 R22 见 §7；新一轮逆向分析（顶刊在各阶段的实际做法、单篇画像、两两对比）见[参考资料](../references/README.md)。通用反例见[anti_patterns](../references/anti_patterns.md)。
+例子只用于说明，不是必须照做的规定；合适就用，不合适就回到判断标准。例子出处见[首轮逆向分析](../references/examples/first_round_reverse_analysis.md)：R 编号见 §2–3，Buchli、Kang、Xue、Dyck、Jin、Fu 和 R22 见 §7；新一轮逆向分析（顶刊在各阶段的实际做法、单篇画像、两两对比）见[参考资料](../references/README.md)。**贡献怎样定位（科研判断部分）见 [references/stages/05_contribution.md](../references/stages/05_contribution.md)。**通用反例见[anti_patterns](../references/anti_patterns.md)。
 
 **核心目的：** 学会包装。方法是组合的、增量小都没关系，关键是让审稿人理解三点：
 - 研究问题非常必要；
@@ -20,8 +20,8 @@
    - 组合方法写成问题所要求的分工。
    - 成稿按逻辑顺序写，不按实际发现的顺序写。
 3. **体现专业性。** 先把问题形式化，用统一的符号串起方法；关键性质给出推导或定理；执行细节写完整。
-4. **把贡献放到恰当的能力层次上。** 小改动按它带来的能力来写。
-5. **相关工作写准确。** 如实写出强 prior 做到了什么，再讲清我们的具体区别。
+4. **把贡献放到恰当的能力层次上。** 小改动按它带来的能力来写。贡献可以是能力，也可以是可靠的认识或条件；放在证据支撑得住的层次，多层贡献各有证据。
+5. **相关工作写准确。** 如实写出强 prior 做到了什么，再讲清我们的具体区别；写准相对谁是新的（最接近的工作或自己的前作），以及精确的增量。
 6. **实验与主张一一对应。**
 7. **早写早改。** 写不顺的地方，往往说明设计或验证还有问题，要反馈回去。
 
@@ -33,6 +33,7 @@
 - 核心贡献写成一种新的表述或建模（Buchli 的 novel formulation，Jin 的 novel impedance model）。
 - 实用价值写成贡献：控制律简单、不需要完整模型、几乎不需要调参（Kang、Buchli）。
 - 方法写成从目标严格推出来的。R11 写道：“strictly derived from the minimization of …”。
+- 局限写到哪个根本问题还没回答，理论主张带上成立条件。
 
 **AI 犯过的错：**
 - **写得抽象，不像顶刊。**
