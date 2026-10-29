@@ -72,7 +72,6 @@
 | [references/stages/](references/stages/) | 与 workflow/ 一一对应：顶刊在每个阶段的实际做法、作者怎样决定、普通论文差在哪里、锚点论文 |
 | [references/papers/](references/papers/) | 单篇画像：全文逻辑链、各阶段做法、关键决策点 |
 | [references/comparisons/](references/comparisons/) | 两两对比：同一研究线前后版本、顶刊与非顶刊、同刊不同形态 |
-| [references/prior_standards/](references/prior_standards/) | 已有标准（2026-09-07 方法标尺 v1.1、2026-10-18 可执行标准），作为素材吸收 |
 | [references/anti_patterns.md](references/anti_patterns.md) | 通用反例 |
 | [references/examples/](references/examples/) | 首轮逆向分析（阶段文件中例子的出处）和仿真/实验设置的逆向分析 |
 | [sources/](sources/README.md) | 样本清单与新下载的论文（开发用，不随 skill 分发） |

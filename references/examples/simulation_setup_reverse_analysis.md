@@ -1,15 +1,11 @@
 # Reverse analysis of simulation and experiment setups (2026-10-21)
 
-> **给 agent 的读法：** §1–6 是通用的实验设置规律，§7 是原项目的具体应用，可跳过。文中路径指向原项目仓库。
+> **给 agent 的读法：** §1–6 是从 36 篇论文归纳的实验设置规律。原文 §7 是原研究项目的具体应用，已删除（2026-10-29），本文件夹不保留具体项目的内容。文中的论文编号（E、F、R 等）沿用原分析，路径指向原项目仓库，在本文件夹内失效。
 
-Purpose: work out, from how top papers set up their experiments, how this
-project should set up its simulation tasks and baselines, so that the task fits
-the research question, every baseline is reasonable and documented, and the
-evidence can carry either an application story (scanning) or a method story
-(prompt near-optimal impedance update from new contact information).
-
-Complements `independent_reverse_analysis_of_top_journal_methods.md`, which
-covers how methods are formed, not how experiments are built.
+Purpose: work out, from how top papers set up their experiments, how simulation
+tasks and baselines should be set up, so that the task fits the research
+question, every baseline is reasonable and documented, and the evidence can
+carry either an application story or a method story.
 
 Scope: experiment/simulation sections of 36 local papers (text extractions in
 `literature/extracted_text/`). Some table bodies were lost in extraction
@@ -54,8 +50,7 @@ creates the difficulty (stiffness, speed, noise, friction).
 | Same cost, weights and reference; only the mechanism differs | Hammoud, F04, NNBO, F01, R13 (same optimiser) | Correct for method ablations |
 
 No paper in the set grid-searches fixed K/D and picks the best single fixed
-setting on a training set and per scenario. Doing so (plus the two extremes)
-is the most defensible fixed baseline and is a gap this project can fill.
+setting on a training set and per scenario.
 
 Where fixed impedance is shown to fail in the field:
 - slope and sinusoidal surfaces, as a steady-state force bias (E04, Duan, E18, E27);
@@ -117,46 +112,3 @@ field, not a contradiction of it.
 A method story with scanning as the representative application can combine
 both: field-standard benchmark scenarios (which reviewers already accept as
 the places VIC matters) plus scanning scenarios that motivate the problem.
-
-## 7. Implications for this project
-
-1. Each scenario must contain a mechanism under which the best fixed
-   interaction controller is wrong somewhere: soft contact wants low damping and
-   high force-loop bandwidth; stiff (bone-like) contact wants high damping or
-   lower force gain; free-space or obstacle segments want high K for precision
-   and low K at contact. Stiffness steps of 2-8x on a flat soft plane with a force
-   loop do not create this (field and our headroom check agree).
-2. Fixed baselines: two extremes at our own gain bounds, plus the best single
-   fixed setting grid-searched on the training cohort, with K/D and force-loop
-   gains tuned jointly. Report the per-scenario oracle fixed setting as an upper
-   reference. All values are listed.
-3. Representative adaptive baselines are re-tuned by the same budget on the same
-   training cohort and score: Duan/E04 adaptive force tracking; Jin E41 MPC-VIC;
-   Xue MPVIC (online HC estimate + MPC); a learned VIC in the E27 style;
-   force PI / admittance (Wang type) as the strong simple method.
-4. Metrics are two-sided in physical units: force RMSE, max and overshoot
-   [N], lateral tracking [mm], contact loss, peak force, oscillation energy; plus
-   computation time per update and training cost.
-5. Monte Carlo cohorts (>= 20 seeded scenes per family), paired comparisons
-   with bootstrap CIs, train/dev/test split by seed, an OOD family.
-6. Research questions are stated up front and mapped one to one to experiment
-   families (R19 style); ties and losses are reported (R13, YOPO style).
-
-First physics probe in the existing plant (`experiments/realistic_scan_task`,
-fixed Kz=10 N/m, force PI kp 1.5, ki 10, 4 mm breathing, 5 s): with the force
-loop, the best Dz on 30 kPa tissue is 5 Ns/m (force RMSE 0.029 N; 0.117 N at
-Dz 150), whereas on a 1 MPa bone-like region Dz <= 20 gives oscillation
-(RMSE 1.7-2.1 N, peaks 10-19 N) and Dz 150 is needed (0.119 N). So the damping
-needed depends strongly on the environment once a bone-like region is present,
-which matches Haninger's well-damped condition. However, when the force-loop
-gains are tuned jointly with Dz (kp 0.3-3, ki 5-40, Dz 5-150), one fixed setting
-(kp 0.3, ki 20, Dz 60) gives 0.035 / 0.034 / 0.038 N on 30 kPa / 150 kPa / 1 MPa
-against per-environment optima of 0.025 / 0.030 / 0.038 N: about 15 % headroom,
-with all errors far inside a 0.5 N band. So with a clean 1 kHz force loop and
-2 ms delay, a jointly tuned fixed controller is close to optimal across a 30x
-homogeneous stiffness range. Any task set must be checked against this
-loophole. The field shows variable impedance mattering under conditions this
-probe lacks: transitions and unexpected contact, actuation and sensing lag of
-position-controlled platforms (about 20 ms, Wang TASE2024; 100-125 Hz loops,
-Xue, Zhang, AuSoScan), and tissue push/retract. Those conditions must come from
-a stated reference platform, not be inflated to favour adaptation.
