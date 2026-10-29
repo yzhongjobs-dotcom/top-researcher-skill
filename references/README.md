@@ -13,9 +13,9 @@
 
 | 目录 | 内容 | 状态 |
 |---|---|---|
-| [stages/](stages/) | 与 workflow/ 一一对应：`01_literature`、`02_problem`、`03_method`（含快速验证与迭代）、`04_experiments`、`05_contribution`（对应 `05_writing` 中的贡献定位与论证，不含写作技巧），写顶刊在该阶段的实际做法 | 初稿完成（2026-10-29）：01–05 五个阶段，基于约 30 篇样本 |
-| [papers/](papers/) | 单篇画像 | R13、Dyck（P1，写于方向纠正前）；L01–L10 课题组序列；T01–T04 近年顶刊；C01–C03 高引经典；A 应用型序列；Pol、Wij、FuT、FuR、Beb（Codex 起草、Claude 抽查）；K16（留出检验后纳入）（共 26 份） |
-| [comparisons/](comparisons/) | 两两对比 | Jin ICRA2022→TMECH2023（P1） |
+| [stages/](stages/) | 与 workflow/ 一一对应：`01_literature`、`02_problem`、`03_method`（含快速验证与迭代）、`04_experiments`、`05_contribution`（对应 `05_writing` 中的贡献定位与论证，不含写作技巧），写顶刊在该阶段的实际做法 | 完成（2026-10-29）：01–05 五个阶段，基于 32 篇正例加 1 篇对照；经两轮留出检验修订 |
+| [papers/](papers/) | 单篇画像 | 29 份短画像，只记录科研判断：R13、Dyck（P1 试点，已压缩）；L01–L10 课题组序列；T01–T04 近年顶刊；C01–C03 高引经典；A 应用型序列；Pol、Wij、FuT、FuR、Beb；K16、T05–T07（留出检验后纳入；T06 为 SLAM，领域以外） |
+| [comparisons/](comparisons/) | 两两对比 | Jin ICRA2022→TMECH2023（P1 试点，已压缩）；会议版→期刊版的升级另见各阶段的"升级样板" |
 | [prior_standards/](prior_standards/) | 已有标准（2026-09-07 方法标尺 v1.1、2026-10-18 可执行标准），作为素材吸收 | 已恢复 |
 | [examples/](examples/) | 首轮逆向分析、仿真/实验设置逆向分析 | 已迁入 |
 | [anti_patterns.md](anti_patterns.md) | 通用反例 | 已迁入 |

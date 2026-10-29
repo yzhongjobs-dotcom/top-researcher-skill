@@ -10,7 +10,7 @@
 
 规则从参考资料中提炼，每条规则应能回查到实例；参考资料发现规则不对或不完整时，回头修改规则。
 
-> 现状（2026-10-28）：规则层（本文件与 workflow/）已与用户讨论形成，基本正确，但来自个人理解，缺少真实顶刊的支撑。新一轮逆向分析正在补参考层 `references/stages/`，按阶段写出顶刊实际怎么做、作者怎样决定、普通论文差在哪里，再据此细化规则层。计划见 [PLAN.md](PLAN.md)。
+> **怎样使用**：和用户一起做研究，或评判、优化一个 idea 时，先读 [references/stages/README.md](references/stages/README.md) 的"用法 A（做研究）"或"用法 B（评判和优化）"，再按阶段读 `workflow/` 与对应的 `references/stages/` 文件。规则层写流程与判断，参考层写顶刊在每一步实际做到什么程度（来自 30 余篇顶会顶刊的逆向分析，每条可回查页码）。
 
 ## 一、目标与判断依据
 
@@ -75,5 +75,5 @@
 | [references/prior_standards/](references/prior_standards/) | 已有标准（2026-09-07 方法标尺 v1.1、2026-10-18 可执行标准），作为素材吸收 |
 | [references/anti_patterns.md](references/anti_patterns.md) | 通用反例 |
 | [references/examples/](references/examples/) | 首轮逆向分析（阶段文件中例子的出处）和仿真/实验设置的逆向分析 |
-| [sources/](sources/README.md) | 样本清单与新下载的论文 |
-| [evals/](evals/README.md) | 检验 agent 是否达到水平的任务与结果 |
+| [sources/](sources/README.md) | 样本清单与新下载的论文（开发用，不随 skill 分发） |
+| [evals/](evals/README.md) | 检验 agent 是否达到水平的任务与结果（开发用，不随 skill 分发） |
