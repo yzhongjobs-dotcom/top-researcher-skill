@@ -74,5 +74,5 @@
 | [references/comparisons/](references/comparisons/) | 两两对比：同一研究线前后版本、顶刊与非顶刊、同刊不同形态 |
 | [references/anti_patterns.md](references/anti_patterns.md) | 通用反例 |
 | [references/examples/](references/examples/) | 首轮逆向分析（阶段文件中例子的出处）和仿真/实验设置的逆向分析 |
-| [sources/](sources/README.md) | 样本清单与新下载的论文（开发用，不随 skill 分发） |
-| [evals/](evals/README.md) | 检验 agent 是否达到水平的任务与结果（开发用，不随 skill 分发） |
+| `sources/` | 样本清单与新下载的论文（开发用，不随 skill 分发） |
+| `evals/` | 检验 agent 是否达到水平的任务与结果（开发用，不随 skill 分发） |
