@@ -30,6 +30,12 @@
 - 保留现有文件的语言；新文件的语言按 PLAN.md 中用户的决定。
 - Windows 上运行 Python 用 `python -X utf8`。
 
-## 版本管理
+## 版本管理与 GitHub 同步
 
-本文件夹使用本地 Git。每个完成的检查点先更新 PLAN.md 的状态列，再提交一次，提交信息写清改了什么、为什么。不 force-push，不改写历史。是否推送到远程仓库由用户决定。
+本项目已获用户授权同步到 `https://github.com/yzhongjobs-dotcom/top-researcher-skill`。Codex 或 Claude 每完成一项对本项目的修改后，必须在最终汇报前运行：
+
+```powershell
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\sync.ps1 -Message "<简洁的修改说明>"
+```
+
+该脚本会暂存项目内修改、创建本地提交并推送到 `origin/main`。运行后必须确认本地分支干净且与远程一致；如果推送失败，保留本地提交并明确报告失败原因，不得声称同步成功。不得 force-push、改写历史、提交凭据、访问令牌或项目外文件。
